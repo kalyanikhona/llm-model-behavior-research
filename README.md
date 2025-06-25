@@ -28,3 +28,26 @@ I am a non-technical researcher studying how Large Language Models behave, inter
 ## Why This Matters
 As LLMs become primary information interfaces, understanding their behavior from a non-technical perspective is crucial for:
 - Marketers crafting AI-discoverable content
+- Brands maintaining consistent voice across AI interactions
+- Product strategists designing AI-first experiences
+- Businesses optimizing for the AI-driven future
+
+## Current Research Questions
+- How do LLMs interpret brand messaging differently than humans?
+- What patterns exist in LLM content discovery and prioritization?
+- How can non-technical professionals effectively optimize for AI?
+- What philosophical frameworks guide AI-human alignment?
+
+## Connect With Me
+- **LinkedIn**: [Kalyani Khona](https://www.linkedin.com/in/kalyanikhona/)
+- **Research Updates**: Follow this repository for latest insights
+
+## Repository Structure
+- `/research` - Deep dives into model behavior patterns
+- `/case-studies` - Real-world applications and findings
+- `/frameworks` - Practical tools for non-technical professionals
+- `/resources` - Curated readings and references
+
+---
+*This repository is actively maintained and updated with new research findings.*
+Ste
