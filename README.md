@@ -1,5 +1,5 @@
 # llm-model-behavior-research
-Non-technical research on LLM model behavior patterns, AI-human interaction, and generative intelligence optimization (AEO) for marketing and brand strategy. Exploring how LLMs interpret, respond, and discover content
+Non-technical research on LLM model behavior patterns, AI-human interaction, and generative intelligence optimization (AEO) for marketing, product discovery and brand strategy. Exploring how LLMs interpret, respond, and discover content
 # Kalyani Khona - LLM Model Behavior Research
 
 ## About My Research
@@ -50,4 +50,3 @@ As LLMs become primary information interfaces, understanding their behavior from
 
 ---
 *This repository is actively maintained and updated with new research findings.*
-Ste
