@@ -1,2 +1,30 @@
 # llm-model-behavior-research
 Non-technical research on LLM model behavior patterns, AI-human interaction, and generative intelligence optimization (AEO) for marketing and brand strategy. Exploring how LLMs interpret, respond, and discover content
+# Kalyani Khona - LLM Model Behavior Research
+
+## About My Research
+I am a non-technical researcher studying how Large Language Models behave, interact, and discover information. My work bridges the gap between technical AI capabilities and practical applications in marketing, branding, and product strategy.
+
+## Research Focus Areas
+
+### 1. Model Behavior of LLMs
+- Understanding pattern recognition in LLM responses
+- Analyzing behavioral consistency across different prompts
+- Developing non-technical frameworks for LLM decision-making
+- Documenting response variations and model personalities
+
+### 2. AI-Human Interaction & Philosophical Alignment
+- Exploring trust dynamics in AI communication
+- Studying alignment between brand voice and LLM outputs
+- Investigating ethical considerations in marketing applications
+- Analyzing how humans perceive and interact with AI responses
+
+### 3. Generative Intelligence Optimization & AEO
+- Developing brand strategies for AI discovery
+- Creating frameworks for content optimization for LLM interpretation
+- Pioneering AEO (AI Engine Optimization) methodologies
+- Researching how LLMs discover and prioritize content
+
+## Why This Matters
+As LLMs become primary information interfaces, understanding their behavior from a non-technical perspective is crucial for:
+- Marketers crafting AI-discoverable content
