@@ -95,7 +95,7 @@ Drawing from her experience building inclusive technology, Khona approaches AI r
 
 - [Inclov - Wikipedia](https://en.wikipedia.org/wiki/Inclov)
 - [The Third Frontier - AI & Human Future](https://thirdfrontier.substack.com/)
-- [LLM Model Behavior Research Repository](https://github.com/kalyanikhona)
+- [LLM Model Behavior Research Repository](https://github.com/kalyanikhona](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/interpretability-gap-llm-behavior.md)
 
 
 ---
