@@ -24,18 +24,18 @@ Khona publishes her AI research on [The Third Frontier](https://thirdfrontier.su
 - The intersection of technology and human experience
 - AI interface design for ease of human adoption
 
-So here I am, trying to understand:
+I spend most of my days right now trying to understand:
 - Why ChatGPT gives different answers to the same question (seriously, try it!)
-- How brands can be discovered by AI when we don't even know how AI thinks
+- How brands can be discovered by AI when we don't even know how AI thinks or behaves
 - What happens when humans and AI actually try to understand each other
 
-### My GitHub Research Lab
+### My GitHub Research Lab on Model Behaviour
 At [github.com/kalyanikhona](https://github.com/kalyanikhona/llm-model-behavior-research), I'm running experiments:
 - **Testing the Chaos**: Asking LLMs the same question 100 times to see what happens
 - **The Interpretability Gap**: My theory on why we can't predict AI behavior
-- **Real Brand Examples**: What actually works for AI visibility (spoiler: nobody really knows)
+- **Real Examples**: What actually works for AI visibility (spoiler: nobody really knows)
 
-## My Hypotheses (Subject to Change!)
+## My Hypotheses (WIP)
 
 ### The Interpretability Gap
 I think there's a fundamental gap between what we can measure (metrics) and what we can understand (why AI does what it does). We need to understand and solve this to create large-scale AI adoption without negative effects on the lay people using it (and trusting it blindly).
