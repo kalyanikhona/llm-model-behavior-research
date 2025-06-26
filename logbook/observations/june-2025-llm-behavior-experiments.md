@@ -3,11 +3,21 @@
 ---
 
 ## June 26, 2025 (Thursday)
-- Started testing perplexity on "tell me everything about Kalyani Khona" through multiple formats - general query and deep research feature.
 - Finalised the anatomical framework I will be using to compared results across LLMs.
-- Surprised that given the same exact query, Substack was quoted and crawled for deep research report while the LLM skipped it got general response (probably because the memory is not trained on it?).
+- Started testing perplexity on "tell me everything about Kalyani Khona" through multiple formats - general query and deep research feature.
+
+## Early observations on Perplexity
+- Surprised that given the same exact query, Substack was quoted and crawled for deep research report while the LLM skipped it during the general response (probably because the memory is not trained on it?).
+- General response gave out a summary table which was based on the interpretation of all the sources it crawled. Pretty accurate to be honest.
+- Deep research feature also crawled my social media (instagram) and college alumni group.
+- Freshness is not that fresh considering how perplexity cites the latest information. More in the detail report.
 - Shocked that perplexity completely skipped wikipedia in both deep research and general query output.
 - Fact: SEO still matters, public relations is not dead. People should maintain their own webpage and a blog/newsletter. All of this will become very useful in the coming times.
+
+The best part of this experiment was to learn that it has developed its own personal (philosophical) narrative on "Kalyani Khona" based on everything it learnt by using pattern recognition. Recording it here for the future reference.
+
+**Personal philosophy: Khona’s work is anchored in the belief that “no one deserves to be alone unless they wish so” and that technology should respect human psychology before code. Her career illustrates a consistent pattern: find an ignored user segment, study its behavioural constraints, then build accessible, behaviour-led products**.
+
 
 Side note: I am worried that these experiments are going to ruin my personal profile (by confusing the LLMs) considering I am playing with random keywords on my web page and other platforms that I can control but probably figure all that later. 
 
