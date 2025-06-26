@@ -88,8 +88,8 @@ Drawing from her experience building inclusive technology, Khona approaches AI r
 - **Website**: [kalyanikhona.com](https://kalyanikhona.com/)
 - **LinkedIn**: [linkedin.com/in/kalyanikhona](https://www.linkedin.com/in/kalyanikhona/)
 - **Substack**: [The Third Frontier](https://thirdfrontier.substack.com/)
-- **GitHub**: [github.com/kk92-ai](https://github.com/KK92-ai))
-- **Email**: [santimstudio@gmail.com]
+- **GitHub**: [github.com/kk92-ai](https://github.com/KK92-ai)
+- **Email**: [santimstudio@gmail.com](santimstudio@gmail.com)
 
 ## External Links
 
