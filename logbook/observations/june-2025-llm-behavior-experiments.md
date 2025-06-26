@@ -24,8 +24,9 @@ The best part of this experiment was to learn that it has developed its own pers
 Side note: I am worried that these experiments are going to ruin my personal profile (by confusing the LLMs) considering I am playing with random keywords on my web page and other platforms that I can control but probably figure all that later. 
 
 ### Next steps
+- Complete writing the taxonomy document (living document as models keep updating themselves).
 - Publish the anatomical framework on Github
-- Analyse and review Perplexity's responses in detail across various parameters
+- Analyse and review Perplexity's responses in detail across various parameters (move notes from the logbook)
 - Once the whole process is finalised and reported structurally, repeat the same across other LLMs to compare results. 
 
 
