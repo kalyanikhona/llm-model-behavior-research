@@ -1,7 +1,9 @@
 # LLM Search Behavior Taxonomy: A Comprehensive Framework
+
 *By Kalyani Khona | Last Updated: June 2025*
 
 ## Abstract
+
 This taxonomy categorizes distinct search and response patterns observed across major Large Language Models (ChatGPT, Claude, Perplexity, Grok) to help researchers and practitioners understand when and how LLMs access external information.
 
 ## Pure generative, no search (also termed as gen-query)
