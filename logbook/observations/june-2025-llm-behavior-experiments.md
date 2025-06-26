@@ -3,9 +3,15 @@
 ---
 
 ## June 26, 2025 (Thursday)
+- Started testing perplexity on "tell me everything about Kalyani Khona" through multiple formats - general query and deep research feature.
+- Finalised the anatomical framework I will be using to compared results across LLMs.
+- Surprised that given the same exact query, Substack was quoted and crawled for deep research report while the LLM skipped it got general response (probably because the memory is not trained on it?).
+- Shocked that perplexity completely skipped wikipedia in both deep research and general query output.
 
-
-
+### Next steps
+- Publish the anatomical framework on Github
+- Analyse the Perplexity responses in detail across various parameters
+- Once the whole process is finalised, repeat across other LLMs and report findings. 
 
 
 ---
