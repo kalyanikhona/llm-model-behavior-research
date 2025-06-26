@@ -33,7 +33,7 @@ She spends most of her days right now trying to understand:
 
 
 ### My GitHub Research Lab on Model Behaviour
-At [github.com/kk92-ai](https://github.com/KK92-ai/llm-model-behavior-research)), I'm running experiments:
+At [github.com/kk92-ai](https://github.com/KK92-ai/llm-model-behavior-research), I'm running experiments:
 - **Testing the Chaos**: Asking LLMs the same question 100 times to see what happens
 - **The Interpretability Gap**: My theory on why we can't predict AI behavior
 - **Real Examples**: What actually works for AI visibility (spoiler: nobody really knows)
