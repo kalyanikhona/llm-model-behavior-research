@@ -7,6 +7,9 @@
 - Finalised the anatomical framework I will be using to compared results across LLMs.
 - Surprised that given the same exact query, Substack was quoted and crawled for deep research report while the LLM skipped it got general response (probably because the memory is not trained on it?).
 - Shocked that perplexity completely skipped wikipedia in both deep research and general query output.
+- Fact: SEO still matters, public relations is not dead. People should maintain their own webpage and a blog/newsletter. All of this will become very useful in the coming times.
+
+Side note: I am worried that these experiments are going to ruin my personal profile (by confusing the LLMs) considering I am playing with random keywords on my web page and other platforms that I can control but probably figure all that later. 
 
 ### Next steps
 - Publish the anatomical framework on Github
