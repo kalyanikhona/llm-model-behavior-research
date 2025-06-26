@@ -1,7 +1,7 @@
-# The Interpretability Gap in LLM Model Behavior: Why Analytics Alone Can't Solve AEO
+# The Interpretability Gap in LLM Model Behavior
 *By Kalyani Khona | June 2025*
 
-## Opening: The Paradox of Predictable Unpredictability
+## The Predictable Unpredictability
 
 While platforms like Profound are publishing playbooks and building sophisticated tracking systems for Answer Engine Optimization (AEO), we face a fundamental challenge: the same query asked by three different people can yield three entirely different LLM responses. 
 
@@ -26,6 +26,8 @@ Based on the latest AEO Periodic Table (June 2025), we can observe clear pattern
 - **Perplexity**: Leads in structured data importance (99/100), values real-time freshness (93/100)
 - **Grok**: Real-time social signals focus, highest content freshness requirement (96/100)
 
+I plan to run daily experiments to validate these model specific behaviors and log my findings in the [logbook on Git](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/logbook/observations/june-2025-llm-behavior-experiments.md). 
+
 ### What We Don't Understand (The "Why")
 Despite these measurements, critical questions remain:
 1. Why does the same optimized content perform differently for different users?
@@ -33,7 +35,7 @@ Despite these measurements, critical questions remain:
 3. How do models internally weight conflicting signals?
 4. Why do responses vary even with identical prompts and contexts?
 
-## The Interpretability Challenge: Three Core Problems
+## Three Core Problems
 
 ### 1. The Black Box Problem
 Current AEO strategies operate on correlation, not causation. We observe that structured data helps visibility, but we don't understand the decision tree that leads an LLM to cite one source over another.
@@ -55,14 +57,16 @@ Unlike traditional search algorithms, LLMs incorporate:
 ## Toward a New Framework: Behavioral Pattern Recognition
 
 ### Observable Patterns Despite Unpredictability
-Through systematic observation, certain behavioral constants emerge:
+Through systematic observation, certain behavioral constants emerge on the internet but need to be validated:
 
-**Cross-Model Constants:**
-1. **Authority Cascades**: All models show preference cascades (Wikipedia → Major Publishers → Niche Experts)
-2. **Freshness Decay**: Information older than 6 months shows 40% lower citation rates
-3. **Structure Rewards**: FAQ schemas show 3x higher citation rates than unstructured content
+**Cross-Model Hypothesis:**
+1. **Authority**: All models show preference cascades (Wikipedia → Major Publishers → Niche Experts)
+2. **Freshness**: Information older than 6 months shows 40% lower citation rates
+3. **Structure**: FAQ schemas show 3x higher citation rates than unstructured content
 
-**Model-Specific Quirks:**
+Based on my experiments so far, I have doubts that authority, freshness and structure can be generalised across LLMs. For e.g. perplexity general query does not cite wikipedia as a source at all but upon running a **deep research** query will cite wikipedia immediately. My experiments also show that content as old as six years has been mentioned in general query as the LLM memory has crawled this information during the training vs deep research shows the latest content based factual information. 
+
+**Model-Specific Tests:**
 - ChatGPT: Shows "explanation preference" - favors content that teaches concepts
 - Claude: Exhibits "safety bias" - overweights trustworthiness in ambiguous queries  
 - Perplexity: Demonstrates "source diversity" - actively avoids single-source responses
@@ -70,7 +74,7 @@ Through systematic observation, certain behavioral constants emerge:
 
 ### The Path Forward: Behavioral Mapping
 
-Instead of trying to reverse-engineer the models, we should:
+Apart from trying to reverse-engineer the models, we should:
 
 1. **Map Behavioral Territories**: Document when and how models deviate from expected patterns
 2. **Identify Trigger Conditions**: Catalog what causes response variability
@@ -80,22 +84,22 @@ Instead of trying to reverse-engineer the models, we should:
 ## Implications for Marketers and Brands
 
 ### Moving Beyond "Best Practices"
-Traditional AEO advice assumes predictable outcomes. The reality requires:
-- **Portfolio Approaches**: Multiple content variants for the same topic
+Traditional SEO advice assumes predictable outcomes i.e blog based keyword mapping. The dynamic reality of GEO or AEO requires:
+- **Portfolio Approaches**: Multiple content variants for the same topic, across various platforms. For e.g. have Github but also substack because different LLMs prefer different reference sources while completing the task.
 - **Continuous Testing**: Real-time adaptation based on actual performance
-- **Behavioral Hedging**: Optimizing for multiple possible model behaviors
+- **Behavioral Hedging**: Optimizing for multiple possible model behaviors i.e deep research, general query, multi-modal etc.
 
 ### The Competitive Advantage of Understanding Uncertainty
-Brands that accept and plan for LLM unpredictability will outperform those seeking silver bullets. This means:
+Companies that accept and plan for LLM unpredictability will outperform those seeking quick fixes and shortcuts. This means:
 - Building content that performs well across multiple interpretation paths
-- Creating redundancy in optimization strategies
+- Stop obsessing over the optimization strategies; we've picked this behaviour from the SEO era
 - Monitoring for behavioral shifts, not just performance metrics
 
-## Conclusion: Embracing the Unknown
+## Conclusion: SEO is not dead but we need a different approach now that humans + agents (on our behalf) both will use the internet differently.
 
-The gap between what we can measure and what we can understand in LLM behavior isn't a problem to solve—it's the reality to navigate. While platforms provide increasingly sophisticated analytics, true competitive advantage comes from understanding the interpretability gap itself.
+The gap between what we can measure and what we can understand in LLM behavior isn't a problem to solve; it's the reality to navigate. While new age GEO platforms provide increasingly sophisticated analytics, true competitive advantage comes from understanding the interpretability gap itself.
 
-As we advance in this field, success won't come from perfect prediction but from elegant adaptation to inherent unpredictability. The future of AEO lies not in controlling LLM responses but in creating content resilient enough to thrive despite their variability.
+As we advance in this field, success won't come from perfect prediction but from adaptation to inherent unpredictability as frontier labs continue to release and fine tune new models. The future of AEO lies not in controlling LLM responses but in creating content resilient enough to thrive with and despite their variability.
 
 ---
 *This research is part of an ongoing investigation into LLM model behavior patterns. Follow for updates as new patterns emerge and platforms evolve.*
