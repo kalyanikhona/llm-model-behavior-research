@@ -4,6 +4,7 @@
 
 ## June 26, 2025 (Thursday)
 - Finalised the anatomical framework I will be using to compared results across LLMs.
+- Started working on the [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md) for cross referencing.
 - Started testing perplexity on "tell me everything about Kalyani Khona" through multiple formats - general query and deep research feature.
 
 ## Early observations on Perplexity
