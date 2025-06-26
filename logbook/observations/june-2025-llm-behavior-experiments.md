@@ -23,8 +23,8 @@ Side note: I am worried that these experiments are going to ruin my personal pro
 
 ### Next steps
 - Publish the anatomical framework on Github
-- Analyse the Perplexity responses in detail across various parameters
-- Once the whole process is finalised, repeat across other LLMs and report findings. 
+- Analyse and review Perplexity's responses in detail across various parameters
+- Once the whole process is finalised and reported structurally, repeat the same across other LLMs to compare results. 
 
 
 ---
