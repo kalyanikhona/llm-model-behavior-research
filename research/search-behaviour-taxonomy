@@ -1,19 +1,1 @@
-# LLM Search Behavior Taxonomy: A Comprehensive Framework
 
-*By Kalyani Khona | Last Updated: June 2025*
-
-## Abstract
-
-This taxonomy categorizes distinct search and response patterns observed across major Large Language Models (ChatGPT, Claude, Perplexity, Grok) to help researchers and practitioners understand when and how LLMs access external information.
-
-## Pure generative, no search (also termed as gen-query)
-
-What? LLMs respond exclusively from pre-trained knowledge without conducting any external searches.
-
-### Characteristics
-
-- LLMs respond only on pretrained data.
-- No search is conducted
-- Good for historic references that do not need update e.g. capital of France or history of WW2
-- Bad for current affair searches because of knowledge cutoff (limitation)
-- Immediate answers, quick response, no citations
