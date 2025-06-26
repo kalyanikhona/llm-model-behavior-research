@@ -24,21 +24,21 @@ Khona publishes her AI research on [The Third Frontier](https://thirdfrontier.su
 - The intersection of technology and human experience
 - AI interface design for ease of human adoption
 
-I spend most of my days right now trying to understand:
-- Why ChatGPT gives different answers to the same question (seriously, try it!)
-- How brands can be discovered by AI when we don't even know how AI thinks or behaves
+She spends most of her days right now trying to understand:
+- Why different LLMs give different answers to the same question 
+- How are we trusting these systems that we do not fully understand
+- How brands can be discovered by AI when we don't even know how AI thinks or behaves 
+- Interpretability as a problem statement for large scale AI adoption
 - What happens when humans and AI actually try to understand each other
 
+
 ### My GitHub Research Lab on Model Behaviour
-At [github.com/kalyanikhona](https://github.com/kalyanikhona/llm-model-behavior-research), I'm running experiments:
+At [github.com/kk92-ai](https://github.com/KK92-ai/llm-model-behavior-research)), I'm running experiments:
 - **Testing the Chaos**: Asking LLMs the same question 100 times to see what happens
 - **The Interpretability Gap**: My theory on why we can't predict AI behavior
 - **Real Examples**: What actually works for AI visibility (spoiler: nobody really knows)
 
-## My Hypotheses (WIP)
-
-### The Interpretability Gap
-I think there's a fundamental gap between what we can measure (metrics) and what we can understand (why AI does what it does). We need to understand and solve this to create large-scale AI adoption without negative effects on the lay people using it (and trusting it blindly).
+I also maintain a logbook of my running thoughts, notes and experiments [here](https://github.com/KK92-ai/llm-model-behavior-research/tree/main/logbook/observations)
 
 ## Key Contributions
 
@@ -49,8 +49,8 @@ I think there's a fundamental gap between what we can measure (metrics) and what
 
 ### To AI Research
 - Trying to identify the "Interpretability Gap" in LLM behavior (2025)
-- Developing non-technical frameworks for marketing professionals
-- Creating uncertainty-adapted strategies for generative engine optimization
+- Developing non-technical frameworks for business and marketing professionals
+- Creating uncertainty-adapted strategies for generative engine optimization or AEO
 
 ## Recognition and Impact
 
@@ -61,7 +61,7 @@ I think there's a fundamental gap between what we can measure (metrics) and what
 
 ### Thought Leadership
 - Author at The Third Frontier on AI-human interaction
-- Emerging voice in non-technical AI research
+- Emerging voice in behaviorial AI research
 - Pioneer in applying entrepreneurial insights to AI behavior studies
 
 > "My experience building for marginalized communities taught me that technology must adapt to human diversity, not the other way around. The same principle applies to AI."
@@ -75,7 +75,7 @@ I think there's a fundamental gap between what we can measure (metrics) and what
 Drawing from her experience building inclusive technology, Khona approaches AI research with a focus on:
 - Human-centered understanding over technical complexity
 - Practical applications for non-technical professionals
-- Ethical considerations in AI development
+- Ethical and philosophical considerations in AI development
 - Accessibility of AI knowledge
 
 ## Current Projects
@@ -88,8 +88,8 @@ Drawing from her experience building inclusive technology, Khona approaches AI r
 - **Website**: [kalyanikhona.com](https://kalyanikhona.com/)
 - **LinkedIn**: [linkedin.com/in/kalyanikhona](https://www.linkedin.com/in/kalyanikhona/)
 - **Substack**: [The Third Frontier](https://thirdfrontier.substack.com/)
-- **GitHub**: [github.com/kalyanikhona](https://github.com/kalyanikhona)
-- **Email**: [available via website]
+- **GitHub**: [github.com/kk92-ai](https://github.com/KK92-ai))
+- **Email**: [santimstudio@gmail.com]
 
 ## External Links
 
