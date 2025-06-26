@@ -13,6 +13,7 @@
 - Freshness is not that fresh considering how perplexity cites the latest information. More in the detail report.
 - Shocked that perplexity completely skipped wikipedia in both deep research and general query output.
 - Fact: SEO still matters, public relations is not dead. People should maintain their own webpage and a blog/newsletter. All of this will become very useful in the coming times.
+- History is still important, especially in general queries where the LLMs are trained on ancient data.
 
 The best part of this experiment was to learn that it has developed its own personal (philosophical) narrative on "Kalyani Khona" based on everything it learnt by using pattern recognition. Recording it here for the future reference.
 
