@@ -5,21 +5,21 @@ If we want to understand the structure and hierarchy of LLM's output on differen
 
 ### Query processing flow (gen-query
 
-1. **Human makes a query** 
-   - (assuming model is pre-trained on it)
+1. **Human makes a query**
+   - assuming model is pre-trained on it
 
-2. **Query moves to a model that rewrites/reformulates**
+3. **Query moves to a model that rewrites/reformulates**
    - This query in a format easy to understand by the model
    - Breakdown into set of simpler context (set of keywords that allows it to retrieve information)
 
-3. **Pass to internal search engine**
+4. **Pass to internal search engine**
    - Retrieve pre-trained data + scan web for missing gaps
    - How much data it will retrieve or scan depends on the compute and context length limitation (which is why claude is best here tbh)
 
-4. **Send to summary model**
+5. **Send to summary model**
    - Where each individual source gets a summary
 
-5. **Packaging stage**
+6. **Packaging stage**
    - Where response is generated in natural language with structured text and citations (for human verifications)
 
 
