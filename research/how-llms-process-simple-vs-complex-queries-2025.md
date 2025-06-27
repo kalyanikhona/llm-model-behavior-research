@@ -9,20 +9,20 @@ If we want to understand the structure and hierarchy of LLM's output on differen
    - assuming model is pre-trained on it
 
 3. **Query moves to a model that rewrites/reformulates**
-   - This query in a format easy to understand by the model
-   - Breakdown into set of simpler context (set of keywords that allows it to retrieve information)
+   - this query in a format easy to understand by the model
+   - breakdown into set of simpler context (set of keywords that allows it to retrieve information)
 
 4. **Pass to internal search engine**
-   - Retrieve pre-trained data + scan web for missing gaps
-   - How much data it will retrieve or scan depends on the compute and context length limitation (which is why claude is best here tbh)
+   - retrieve pre-trained data + scan web for missing gaps
+   - how much data it will retrieve or scan depends on the compute and context length limitation (which is why claude is best here tbh)
 
 5. **Send to summary model**
-   - Where each individual source gets a summary
+   - where each individual source gets a summary
 
 6. **Packaging stage**
-   - Where response is generated in natural language with structured text and citations (for human verifications)
+   - where response is generated in natural language with structured text and citations (for human verifications)
   
-   ### Deep research (new idea generation, interpretation, inference)
+### Deep research (new idea generation, interpretation, inference)
 
 Recently Claude said they do not have just one agent to help with deep research but an army (one agent is gathering citations, second agent is summarising real time as the first agent parses info, third agent is verifying the knowledge and aligning it to claude's constitutional frameworks, another agent is busy packaging). This makes the response time quicker and the quality of response higher. So from this [multi-agent research](https://www.anthropic.com/engineering/built-multi-agent-research-system) system released by them, we already have some understanding of the *deep research* feature which was otherwise a blackbox for a long time. 
 
@@ -30,6 +30,23 @@ Considering the Claude's multi agent blog and my above notes of query processing
 
 What I do want to talk about is how LLMs brainstorm new ideas. Should you believe everything they recommend for your next GTM strategy? Are they giving this same advice to ten other founders who are in the same domain? These are really important questions to know else I fear we all get misled into doing the same actions thinking they are novel or unqiue to us. 
 
+Let's take the example of a reseacher wanting to generate novel ideas for his/her next research and asks LLM to give some options.
 
+1. **RAG activated**
+   - retrieve all exisitng work done across the internet by crawling google scholar, pubmed and the likes
+   - know what is the latest research and discovery in the subject matter of research prompt
+
+3. **Generate a list of ideas**
+   - generate 1000s of ideas; way more than a team of humans could do even if they sat for the whole day in a cabin with the whiteboard
+     
+4. **Pass through pre-defined shortlisting paramters**
+   - only a fraction of these ideas get shortlisted for further ranking (need to elaborate later how this shortlisting happens)
+
+5. **Ranking the ideas**
+   - model ranks them on interestingness, relevance, etc
+   - potentially compare them to papers in the same domain that were already rejected, accepted or highly cited
+
+6. **Proposing a well crafted response**
+   - present a set of 5-10 options to the researcher
 
 *This research is part of an ongoing investigation into LLM model behavior patterns. Follow for updates as new patterns emerge and platforms evolve.*
