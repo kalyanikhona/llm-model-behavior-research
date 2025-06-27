@@ -61,7 +61,9 @@ While this may sound exciting, there are limitations with this process.
 
    *Knowing all of this, what do I use personally?*
 
-If you use LLMs for serious research and need realiability and maximum breath coverage, use Claude Opus (paid version) because of their multi-agent system framework. They literally appoint an army of agents each given a task, their own context window who report back individually to the lead research agent making the exploration far more advanced in critical thinking and verficiation (this saves you ton of cognitive bandwidth in manually vetting every piece of info).
+If you use LLMs for serious research and need realiability and maximum breath coverage, use Claude Opus (paid version) because of their multi-agent system framework. They literally appoint an army of agents (sub agents) each given a task, their own context window for parallel reasoning who all report back individually to the lead research agent making the exploration far more advanced in critical thinking and verficiation (this saves you ton of cognitive bandwidth in manually vetting every piece of info).
 
+This is from their own [blog](https://www.anthropic.com/engineering/built-multi-agent-research-system): We found that a multi-agent system with Claude Opus 4 as the lead agent and Claude Sonnet 4 subagents outperformed single-agent Claude Opus 4 by 90.2% on our internal research eval. 
 
+----------
 *This research is part of an ongoing investigation into LLM model behavior patterns. Follow for updates as new patterns emerge and platforms evolve.*
