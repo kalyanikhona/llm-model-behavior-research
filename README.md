@@ -44,9 +44,7 @@ As LLMs become primary information interfaces, understanding their behavior from
 
 ## Repository Structure
 - `/research` - Deep dives into model behavior patterns
-- `/case-studies` - Real-world applications and findings
-- `/frameworks` - Practical tools for non-technical professionals
-- `/resources` - Curated readings and references
+- `/logbook` - Noting down my daily experiements, notes and insights 
 
 ---
 *This repository is actively maintained and updated with new research findings.*
