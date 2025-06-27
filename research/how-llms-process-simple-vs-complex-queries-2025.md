@@ -3,7 +3,7 @@
 
 If we want to understand the structure and hierarchy of LLM's output on different query types, we need to understand the decision making flow of these models. This is a basic 101 document but needed for anyone who is visiting the repo and has no background on LLMs.
 
-### Query processing flow (gen-query
+### Query processing (gen-query)
 
 1. **Human makes a query**
    - assuming model is pre-trained on it
@@ -21,6 +21,10 @@ If we want to understand the structure and hierarchy of LLM's output on differen
 
 6. **Packaging stage**
    - Where response is generated in natural language with structured text and citations (for human verifications)
+  
+   ### Deep research (new idea generation, interpretation, inference)
+
+Recently Claude said they do not have just one agent to help with deep research but an army (one agent is gathering citations, second agent is summarising real time as the first agent parses info, third agent is verifying the knowledge and aligning it to claude's constitutional frameworks, another agent is busy packaging). This makes the response time quicker and the quality of response higher. So from this [multi-agent research](https://www.anthropic.com/engineering/built-multi-agent-research-system) system released by them, we already have some understanding of the *deep research* feature which was otherwise a blackbox for a long time. 
 
 
 
