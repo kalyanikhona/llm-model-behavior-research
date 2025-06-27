@@ -1,5 +1,6 @@
 # How LLMs Actually Think
 *By Kalyani Khona | Last Updated: June 2025*
+*Ignore typos, I am handtyping this without AI*
 
 If we want to understand the structure and hierarchy of LLM's output on different query types, we need to understand the decision making flow of these models. This is a basic 101 document but needed for anyone who is visiting the repo and has no background on LLMs.
 
@@ -48,5 +49,16 @@ Let's take the example of a reseacher wanting to generate novel ideas for his/he
 
 6. **Proposing a well crafted response**
    - present a set of 5-10 options to the researcher
+  
+While this may sound exciting, there are limitations with this process. 
+
+1. The ideas are not unique to you or your team. Given the same or similar problem statement could generate the same inputs for your competitor
+2. The ideas could be generated on misleading facts or misinformation which affects their feasibility and execution
+3. The system lacks intuition and introspection qualities that lead to human ideas being more grounded and thought through
+4. Since LLMs have no accountability or execution ownership, some of their ideas may start to feel impossible to execute in a high-stake environment like healthcare, pharma and defence where liability of going wrong is unlimited.
+
+**I have personally brainstormed with claude and chatgpt with 100s of prompts and upon asking them to criticially evaluate their ideas or asking if they have given the same solution to others, they have confirmed that this is common insight packaged as novel to appeal and keep the user engaged**
+
+
 
 *This research is part of an ongoing investigation into LLM model behavior patterns. Follow for updates as new patterns emerge and platforms evolve.*
