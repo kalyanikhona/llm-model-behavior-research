@@ -57,11 +57,13 @@ While this may sound exciting, there are limitations with this process.
 3. The system lacks intuition and introspection qualities that lead to human ideas being more grounded and thought through
 4. Since LLMs have no accountability or execution ownership, some of their ideas may start to feel impossible to execute in a high-stake environment like healthcare, pharma and defence where liability of going wrong is unlimited.
 
-   **I have personally brainstormed with claude and chatgpt with 100s of prompts and upon asking them to criticially evaluate their ideas or asking if they have given the same solution to others, they have confirmed that this is common insight packaged as novel to appeal and keep the user engaged**
+   *I have personally brainstormed with claude and chatgpt with 100s of prompts and upon asking them to criticially evaluate their ideas or asking if they have given the same solution to others, they have confirmed that this is common insight packaged as novel to appeal and keep the user engaged*
 
    *Knowing all of this, what do I use personally?*
 
-If you use LLMs for serious research and need realiability and maximum breath coverage, use Claude Opus (paid version) because of their multi-agent system framework. They literally appoint an army of agents (sub agents) each given a task, their own context window for parallel reasoning who all report back individually to the lead research agent making the exploration far more advanced in critical thinking and verficiation (this saves you ton of cognitive bandwidth in manually vetting every piece of info).
+- If you use LLMs for serious research and need realiability and maximum breath coverage, use Claude Opus (paid version) because of their multi-agent system framework. They literally appoint an army of agents (sub agents) each given a task, their own context window for parallel reasoning who all report back individually to the lead research agent making the exploration far more advanced in critical thinking and verficiation (this saves you ton of cognitive bandwidth in manually vetting every piece of info).
+- There are downsides to this system too w.r.t common context that all subagents require as base level knowledge but overall at this point I still think Claude Opus does a decent job at deep research especially where critical thinking is required to evaluate information from the realiability, relevance and accuracy point of view.
+- Perplexity is too focused on PR driven internet like news articles, blog which itself have bias to it so I use it only as a web scanner and *accumulator of information* for now. 
 
 This is from their own [blog](https://www.anthropic.com/engineering/built-multi-agent-research-system): We found that a multi-agent system with Claude Opus 4 as the lead agent and Claude Sonnet 4 subagents outperformed single-agent Claude Opus 4 by 90.2% on our internal research eval. 
 
