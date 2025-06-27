@@ -57,8 +57,11 @@ While this may sound exciting, there are limitations with this process.
 3. The system lacks intuition and introspection qualities that lead to human ideas being more grounded and thought through
 4. Since LLMs have no accountability or execution ownership, some of their ideas may start to feel impossible to execute in a high-stake environment like healthcare, pharma and defence where liability of going wrong is unlimited.
 
-**I have personally brainstormed with claude and chatgpt with 100s of prompts and upon asking them to criticially evaluate their ideas or asking if they have given the same solution to others, they have confirmed that this is common insight packaged as novel to appeal and keep the user engaged**
+   **I have personally brainstormed with claude and chatgpt with 100s of prompts and upon asking them to criticially evaluate their ideas or asking if they have given the same solution to others, they have confirmed that this is common insight packaged as novel to appeal and keep the user engaged**
 
+   *Knowing all of this, what do I use personally?*
+
+If you use LLMs for serious research and need realiability and maximum breath coverage, use Claude Opus (paid version) because of their multi-agent system framework. They literally appoint an army of agents each given a task, their own context window who report back individually to the lead research agent making the exploration far more advanced in critical thinking and verficiation (this saves you ton of cognitive bandwidth in manually vetting every piece of info).
 
 
 *This research is part of an ongoing investigation into LLM model behavior patterns. Follow for updates as new patterns emerge and platforms evolve.*
