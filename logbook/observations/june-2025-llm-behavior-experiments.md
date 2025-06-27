@@ -2,7 +2,7 @@
 *Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
 ---
 ## June 27, 2025 (Friday)
-- Understanding the decision making workflow of a search query
+- Understanding the decision making workflow of a search query [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 
 ## June 26, 2025 (Thursday)
 - Finalised the anatomical framework I will be using to compare results across LLMs.
