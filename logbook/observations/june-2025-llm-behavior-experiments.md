@@ -1,6 +1,8 @@
 # June 2025 LLM Behavior Research Logbook
 *Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
 ---
+## June 27, 2025 (Friday)
+- Understanding the decision making workflow of a search query
 
 ## June 26, 2025 (Thursday)
 - Finalised the anatomical framework I will be using to compare results across LLMs.
