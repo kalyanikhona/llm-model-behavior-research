@@ -1,7 +1,7 @@
 # How LLMs Actually Think
 *By Kalyani Khona | Last Updated: June 2025*
 
-If we want to understand the structure and hierarchy of LLM's output on different query types, we need to understand the decision making flow of these models. 
+If we want to understand the structure and hierarchy of LLM's output on different query types, we need to understand the decision making flow of these models. This is a basic 101 document but needed for anyone who is visiting the repo and has no background on LLMs.
 
 ### Query processing flow (gen-query
 
