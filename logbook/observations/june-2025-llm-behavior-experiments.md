@@ -2,7 +2,10 @@
 *Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
 ---
 ## July 8, 2025 (Tuesday)
+
 - Understanding the basics of Llama (open source) model, parameters, pre-training data, fine tuning etc
+- ***Base model (pretraining)***: download text from the internet -> get GPU clusters -> compress the text into neural net -> pay $$ mn, wait for 10-12 days -> obtain base model
+- ***Assistance model (finetuning)***: once you have the base model -> write labeling instructions -> scale AI to collect 100K high quality formatted responses -> feed into base model data and wait for 1 day -> obtain assitant model -> run evals -> deploy -> monitor behaviour -> iterate i.e. go back to labeling instructions 
 - Note: review Anthropic [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
 
 ## June 27, 2025 (Friday)
