@@ -8,6 +8,11 @@
 - ***Assistance model (finetuning)***: once you have the base model -> write labeling instructions -> scale AI to collect 100K high quality formatted responses -> feed into base model data and wait for 1 day -> obtain assitant model -> run evals -> deploy -> monitor behaviour -> iterate i.e. go back to labeling instructions 
 - Note: review Anthropic [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
 
+  Thoughts on the long term benefits of finetuning internal AI models for consulting companies:
+  - Companies that need AI strategy must think of context or finetuning seriously. How you give AI the data and information it needs to make decisions, communicate to your internal teams as well as external clients sets the tone and vision for the brand.
+  - "Context" is actually how the company operates; the ideal versions of your reports (formats), documents (language and type) & processes that the AI can use as a model; the tone & voice of your organization.
+  - Don't offload how your company operates to some sort of RAG search of every document in your shared storage. Make choices about what kinds of context you need, build the ideal version of a report or document or instruction manual, and take context seriously.
+
 ## June 27, 2025 (Friday)
 - Understanding the decision making workflow of a search query [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 
@@ -45,6 +50,6 @@ Side note: I am worried that these experiments are going to ruin my personal pro
 
 **Research Focus**: Understanding LLM response patterns, citation behaviors, and platform-specific content type/format preferences
 
-**Last Updated**: June 26, 2025 | 9:45 PM IST
+**Last Updated**: July 8, 2025 | 9:45 PM IST
 
 **Contact**: [LinkedIn](https://linkedin.com/in/kalyanikhona) | [GitHub](https://github.com/KK92-ai)
