@@ -6,7 +6,7 @@
 - Understanding the basics of Llama base model and assistant model, parameters, pre-training data, fine tuning etc
 - ***Base model (pretraining)***: download text from the internet -> get GPU clusters -> compress the text into neural net -> pay $$ mn, wait for 10-12 days -> obtain base model
 - ***Assistance model (finetuning)***: once you have the base model -> write labeling instructions i.e how your AI should behave -> scale AI to collect 100K high quality formatted responses -> feed into base model data and wait for 1 day -> obtain assitant model -> run evals -> deploy -> monitor behaviour -> iterate i.e. go back to labeling instructions
-- ***Finetuning via comparision labels*** (optional) in situations where humans may not be able to write answers or have limited context
+- ***Finetuning via comparision labels*** or RLHF (optional) in situations where humans may not be able to write answers or have limited context. OpenAI did this with its actual users/early adopters since the early days.
 - Add to task: review Anthropic [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
 
 ## Thoughts on the long term benefits of finetuning internal AI models for consulting companies:
