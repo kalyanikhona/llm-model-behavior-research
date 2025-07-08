@@ -1,6 +1,9 @@
-# June 2025 LLM Behavior Research Logbook
+# 2025 LLM Behavior Research Logbook
 *Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
 ---
+## July 8, 2025 (Tuesday)
+- Understanding the basics of Llama (open source) model, parameters, training data etc
+
 ## June 27, 2025 (Friday)
 - Understanding the decision making workflow of a search query [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 
