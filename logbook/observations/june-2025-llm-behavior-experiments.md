@@ -2,9 +2,10 @@
 *Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
 ---
 ## July 9, 2025 (Wednesday)
-- Prompt engineering vs fine tuning base models (when to use what methodologies)
 
-Decision making framework (parameters):
+## Prompt engineering vs fine tuning base models (when to use what methodologies)
+
+### Decision making framework (parameters):
 
 - **Cost comparison**: Prompt engineering vs fine-tuning
 - **Control level**: What each approach can/can't achieve
@@ -17,8 +18,6 @@ Question: How can brands ethically influence their representation in AI outputs?
 - **Fine-tuning experiments**: Can training data shift brand sentiment?
 - **Prompt optimization**: Alternative approaches to brand positioning
 - **Ethical boundaries**: What's legitimate vs manipulative?
-
-  # (WIP) Framework
 
 ## Model Priority Matrix
 - **High Impact**: ChatGPT, Gemini (direct user interaction)
@@ -36,19 +35,22 @@ Question: How can brands ethically influence their representation in AI outputs?
 - Timeline: 2-4 months including testing
 - Risk: Model dependency, ethical concerns
 
-  **Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
+# **Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
+
 - A brand's fine-tuned model sits on their servers
 - When users ask ChatGPT "best smartphone?", they're hitting OpenAI's models, not the brand's
 - Fine-tuning creates isolated islands of influence, not broad market impact
 
 Most AI consultants sell fine-tuning without acknowledging this fundamental distribution problem.
 
-### Level 3: Model Partnerships (TG: Only large enterprises can afford this)
+### Level 3: Model Partnerships (TG: Only large enterprises like Microsoft and Apple can afford this)
+
 - Direct partnerships with AI providers
 - Custom fine-tuning agreements
 - Brand safety controls
 
-   **Shortcomings**: Only mega-enterprises have leverage for model partnerships
+# **Shortcomings**: Only mega-enterprises have leverage for model partnerships
+
 - Providers resist this because it compromises perceived neutrality (trust)
 - Creates pay-to-play dynamics that users and regulators oppose
 - Scale limitations: providers can't do custom deals with every brand
