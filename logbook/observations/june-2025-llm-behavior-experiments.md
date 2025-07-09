@@ -4,9 +4,8 @@ Tracking daily experiments, observations, third party conversations and insights
 ---
 ## July 9, 2025 (Wednesday)
 
-### [Research notes]((https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/prompt-engineering-vs-fine-tuning-when-to-use-2025.md)) on prompt engineering vs fine tuning, cost benefit analysis, model priority matrix
-
-### Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/). [findings here](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/ai-search-optimization-market-insights-july-2025.md) 
+- [Research notes](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/prompt-engineering-vs-fine-tuning-when-to-use-2025.md) on prompt engineering vs fine tuning, cost benefit analysis, model priority matrix
+- Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/) - [findings here](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/ai-search-optimization-market-insights-july-2025.md) 
 
 ## July 8, 2025 (Tuesday)
 
