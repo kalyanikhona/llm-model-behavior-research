@@ -51,9 +51,15 @@
 ## Product Development Insights
 
 ### Critical Success Factors
-1. **Accuracy over Features**: Trust metrics more important than feature count
+1. **Accuracy over features**: Trust metrics more important than feature count
 2. **Transparency**: Show probability indicators for visibility confidence (with weekly update on improvement in the probabilities as we get thorough with research)
-3. **Platform Approach**: Integration with existing SEO tools creates competitive advantage (multi agent system running GEO ops and optimisation)
+3. **Platform approach**: Integration with existing SEO tools creates competitive advantage (multi agent system running GEO ops and optimisation)
+
+## Action Items
+
+- **Citation analysis tool**: Build a tool that tracks when and how brands are mentioned across different LLM platforms
+- **Content optimizer**: Develop specific templates optimized for LLM comprehension (structured data, clear hierarchies, factual density)
+- **Query intent mapping**: Create a system to identify high-value queries in our clients' industries and optimize for those specific patterns
 
 ### Pricing Model Learnings
 - Feature-based pricing resonates better than prompt-based
@@ -89,6 +95,11 @@
 - Dashboard showing citation trends over time
 - Integration layer for third-party SEO tools
 
+## Action Items
+- **Testing framework**: Create a system to systematically test how different content formats perform across multiple LLMs and query types
+- **Focus on RAG optimization**: Since we can't influence pre-training, focus on optimizing for retrieval systems (Perplexity, ChatGPT with browsing, etc.)
+- **Tracking infrastructure**: Build robust attribution tracking that can handle the probabilistic nature of LLM responses
+
 ## Key Unanswered Questions
 
 1. Why do identical queries produce different LLM responses? 
@@ -98,9 +109,9 @@
 
 ## Future Discussion
 
-1. **LLM Training Data Cut-offs**: How different LLMs have different training data cut-offs and update cycles. This fundamentally affects what content can be "optimized" for discovery
-2. **RAG vs Pre-training**: Optimizing for pre-training data (which is largely historical) versus optimizing for retrieval-augmented generation (RAG) systems that search the web in real-time
-3. **Token Context Windows**: How LLMs process and prioritize information within their context windows, which is crucial for optimization
-4. **Attribution Challenge**: LLMs often don't provide consistent citations, making ROI measurement extremely difficult
+1. **LLM training data cut-offs**: How different LLMs have different training data cut-offs and update cycles. This fundamentally affects what content can be "optimized" for discovery
+2. **RAG vs pre-training**: Optimizing for pre-training data (which is largely historical) versus optimizing for retrieval-augmented generation (RAG) systems that search the web in real-time
+3. **Token context windows**: How LLMs process and prioritize information within their context windows, which is crucial for optimization
+4. **Attribution challenge**: LLMs often don't provide consistent citations, making ROI measurement extremely difficult
 ---
 *These insights compiled from internal research, customer interviews, and technical experimentation in the AI search optimization space by Kalyani Khona and Neuverge Labs Private Limited (https://neusearch.ai/).*
