@@ -1,4 +1,4 @@
-# AI Search Optimization Market Insights with Neuverge Labs Private Limited 
+# AI Search Optimization Market Insights with (https://neusearch.ai/)[Neuverge Labs Private Limited]
 *Research Notes by Kalyani Khona | July 8, 2025*
 
 ## Key Takeaways
