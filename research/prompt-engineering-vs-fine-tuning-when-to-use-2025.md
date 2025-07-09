@@ -54,6 +54,11 @@ Most AI consultants sell fine-tuning without acknowledging this fundamental dist
 
 Fine-tuning on open source base models only affects systems you own, not where customers actually are. This is why all brand's AI visibility strategy should focus on discovery and content optimisation for closed source, chat interface models like Chatgpt and Gemini by feeding them high quality relevant training data.
 
+## Thoughts on the long term benefits of finetuning internal AI models for consulting companies:
+  - Companies that need AI strategy must think of context or finetuning seriously. How you give AI the data and information it needs to make decisions, communicate to your internal teams as well as external clients sets the tone and vision for the brand.
+  - "Context" is actually how the company operates; the ideal versions of your reports (formats), documents (language and type) & processes that the AI can use as a model; the tone & voice of your organization.
+  - Don't offload how your company operates to some sort of RAG search of every document in your shared storage. Make choices about what kinds of context you need, build the ideal version of a report or document or instruction manual, and take context seriously.
+
 ## Summary:
 
 - The distribution problem is real and under-discussed
