@@ -160,7 +160,8 @@ LLMs prefer this when:
 - When competing with many similar services
 - Building "entity recognition (helping LLMs understand what you are)
 
-**Summary:**
+### Summary
+
 When someone asks "What's the best coffee subscription?", the LLM has to:
 
 1. Understand what information is most relevant
