@@ -51,9 +51,17 @@ Most AI consultants sell fine-tuning without acknowledging this fundamental dist
 
 ### **Shortcomings**: Only mega-enterprises have leverage for model partnerships
 
-- Providers resist this because it compromises perceived neutrality (trust)
-- Creates pay-to-play dynamics that users and regulators oppose
-- Scale limitations: providers can't do custom deals with every brand
+- Compromises perceived neutrality and trust by end users (if they know the models have been manipulated to recommend a certain brand over another - making it advertorial) 
+- Regulators oppose dynamics like this actively
+- Providers can't do custom deals with every brand (scalability problems)
+
+Fine-tuning on open source base models only affects systems you own, not where customers actually are. This is why all brand's AI visibility strategy should focus on discovery and content optimisation for closed source, chat interface models like Chatgpt and Gemini by feeding them high quality relevant training data.
+
+## Summary:
+
+- The distribution problem is real and under-discussed
+- Fine-tuning is relevant for internal ops (HR, legal) but marketing and brand teams need to work with existing closed-knit LLMs by providing high quality training data
+- "Where are customers actually interacting with AI" is an important question to ask (if its travel or finance, you will find your users on perplexity or chatgpt, if its SaaS or coding, you'll find your end user on claude and so on)
 
 ## July 8, 2025 (Tuesday)
 
