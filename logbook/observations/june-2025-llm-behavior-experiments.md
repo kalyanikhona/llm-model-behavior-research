@@ -1,6 +1,23 @@
 # 2025 LLM Behavior Research Logbook
 *Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
 ---
+## July 9, 2025 (Wednesday)
+- Prompt engineering vs fine tuning base models (when to use what methodologies)
+
+Decision making framework (parameters):
+
+- **Cost comparison**: Prompt engineering vs fine-tuning
+- **Control level**: What each approach can/can't achieve
+- **Scalability**: Which approach works for different company sizes
+- **Risk assessment**: Potential downsides of each strategy
+
+Question: How can brands ethically influence their representation in AI outputs?
+
+- **Baseline testing**: How do models currently mention specific brands?
+- **Fine-tuning experiments**: Can training data shift brand sentiment?
+- **Prompt optimization**: Alternative approaches to brand positioning
+- **Ethical boundaries**: What's legitimate vs manipulative?
+
 ## July 8, 2025 (Tuesday)
 
 - Understanding the basics of Llama base model and assistant model, parameters, pre-training data, fine tuning etc
