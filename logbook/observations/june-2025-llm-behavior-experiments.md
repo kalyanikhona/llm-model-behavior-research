@@ -36,7 +36,7 @@ Question: How can brands ethically influence their representation in AI outputs?
 - Timeline: 2-4 months including testing
 - Risk: Model dependency, ethical concerns
 
-### **Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
+**Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
 
 - A brand's fine-tuned model sits on their servers
 - When users ask ChatGPT "best smartphone?", they're hitting OpenAI's models, not the brand's
@@ -50,7 +50,7 @@ Most AI consultants sell fine-tuning without acknowledging this fundamental dist
 - Custom fine-tuning agreements
 - Brand safety controls
 
-### **Shortcomings**: Only mega-enterprises have leverage for model partnerships
+**Shortcomings**: Only mega-enterprises have leverage for model partnerships
 
 - Compromises perceived neutrality and trust by end users (if they know the models have been manipulated to recommend a certain brand over another - making it advertorial) 
 - Regulators oppose dynamics like this actively
@@ -64,7 +64,7 @@ Fine-tuning on open source base models only affects systems you own, not where c
 - Fine-tuning is relevant for internal ops (HR, legal) but marketing and brand teams need to work with existing closed-knit LLMs by providing high quality training data
 - "Where are customers actually interacting with AI" is an important question to ask (if its travel or finance, you will find your users on perplexity or chatgpt, if its SaaS or coding, you'll find your end user on claude and so on)
 
-### Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/). [findings here](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/ai-search-optimization-market-insights-july-2025.md) 
+## Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/). [findings here](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/ai-search-optimization-market-insights-july-2025.md) 
 
 ## July 8, 2025 (Tuesday)
 
