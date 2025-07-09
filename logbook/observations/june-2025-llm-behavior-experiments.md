@@ -18,6 +18,41 @@ Question: How can brands ethically influence their representation in AI outputs?
 - **Prompt optimization**: Alternative approaches to brand positioning
 - **Ethical boundaries**: What's legitimate vs manipulative?
 
+  # (WIP) Framework
+
+## Model Priority Matrix
+- **High Impact**: ChatGPT, Gemini (direct user interaction)
+- **Medium Impact**: Perplexity, search integration models
+- **Emerging**: Industry-specific fine-tuned models
+
+## Strategy Options
+### Level 1: Content Strategy (TG: Startups, D2C brands, SMEs)
+- Optimize existing content for AI training data
+- Create AI-friendly FAQ formats
+- Structured data markup for AI consumption
+
+### Level 2: Fine-Tuning Investment (TG: Mid-tier firms wanting RAG + internal LLM capabilities built on base models)
+- Cost: $5K-50K depending on scope
+- Timeline: 2-4 months including testing
+- Risk: Model dependency, ethical concerns
+
+  **Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
+- A brand's fine-tuned model sits on their servers
+- When users ask ChatGPT "best smartphone?", they're hitting OpenAI's models, not the brand's
+- Fine-tuning creates isolated islands of influence, not broad market impact
+
+Most AI consultants sell fine-tuning without acknowledging this fundamental distribution problem.
+
+### Level 3: Model Partnerships (TG: Only large enterprises can afford this)
+- Direct partnerships with AI providers
+- Custom fine-tuning agreements
+- Brand safety controls
+
+   **Shortcomings**: Only mega-enterprises have leverage for model partnerships
+- Providers resist this because it compromises perceived neutrality (trust)
+- Creates pay-to-play dynamics that users and regulators oppose
+- Scale limitations: providers can't do custom deals with every brand
+
 ## July 8, 2025 (Tuesday)
 
 - Understanding the basics of Llama base model and assistant model, parameters, pre-training data, fine tuning etc
