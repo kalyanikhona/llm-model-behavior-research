@@ -13,11 +13,16 @@ I am a non-technical researcher studying how Large Language Models behave, inter
 - Developing non-technical frameworks for LLM decision-making
 - Documenting response variations and model personalities
 
+I will be further narrowing down my research to understand the following from generative engine optimisation use case:
+- How do different base models handle brand mentions
+- What biases exists in pre-trained models
+- Citation framework of existing LLMS (closed models that can only be accessed through chat interfaces)
+- How consistent are responses across multiple generations
+
 ### 2. AI-Human Interaction & Philosophical Alignment
 - Exploring trust dynamics in AI communication
 - Studying alignment between brand voice and LLM outputs
-- Investigating ethical considerations in marketing applications
-- Analyzing how humans perceive and interact with AI responses
+- Analyzing how humans perceive and interact with AI responses (emotional bond, trust and dependency)
 
 ### 3. Generative Intelligence Optimization & AEO
 - Developing brand strategies for AI discovery
