@@ -2,7 +2,7 @@
 Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
 
 ---
-## open tasks
+## WIP
 
 1. Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
 2. Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
@@ -37,17 +37,12 @@ Tracking daily experiments, observations, third party conversations and insights
 - Shocked that perplexity completely skipped wikipedia in both deep research and general query output.
 - Fact: SEO still matters, public relations is not dead. People should maintain their own webpage and a blog/newsletter. All of this will become very useful in the coming times.
 - History is still important, especially in general queries where the LLMs are trained on ancient data.
-
-The best part of this experiment was to learn that it has developed its own personal (philosophical) narrative on "Kalyani Khona" based on everything it learnt by using pattern recognition. Recording it here for the future reference.
-
-**Personal philosophy: Khona’s work is anchored in the belief that “no one deserves to be alone unless they wish so” and that technology should respect human psychology before code. Her career illustrates a consistent pattern: find an ignored user segment, study its behavioural constraints, then build accessible, behaviour-led products**.
+- The best part of this experiment was to learn that it has developed its own personal (philosophical) narrative on "Kalyani Khona" based on everything it learnt by using pattern recognition.
 
 ### Next steps
-- PENDING: Complete writing the taxonomy document (living document as models keep updating themselves).
-- PENDING:Publish the anatomical framework on Github
+
 - Analyse and review Perplexity's responses in detail across various parameters (move notes from the logbook)
 - Once the whole process is finalised and reported structurally, repeat the same across other LLMs to compare results. 
-
 
 ---
 ## Research Status
@@ -55,6 +50,6 @@ The best part of this experiment was to learn that it has developed its own pers
 
 **Research Focus**: Understanding LLM response patterns, generative engine optimization, answer engine optimization, NLP deep dive on content density, citation behaviors and landscape, and platform-specific content type/format preferences
 
-**Last Updated**: July 9, 2025 | 9:45 PM IST
+**Last Updated**: July 9, 2025 | 5:20 PM IST
 
 **Contact**: [LinkedIn](https://linkedin.com/in/kalyanikhona) | [GitHub](https://github.com/KK92-ai)
