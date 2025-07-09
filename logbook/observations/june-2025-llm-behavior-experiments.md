@@ -1,5 +1,7 @@
 # 2025 LLM Behavior Research Logbook
-*Tracking daily experiments, observations,third party conversations and insights on how LLMs behave*
+*Tracking daily experiments, observations, third party conversations and insights on how LLMs behave*
+
+Note: For now I am dumping all my notes here but eventually I will move them to relevant files and folders
 ---
 ## July 9, 2025 (Wednesday)
 
