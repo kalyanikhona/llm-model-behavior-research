@@ -1,4 +1,4 @@
-# AI Search Optimization Market Insights with [Neuverge Labs Private Limited](https://neusearch.ai/)
+# AI Search Optimization Insights with [Neuverge Labs Private Limited](https://neusearch.ai/)
 *Research Notes by Kalyani Khona | July 8, 2025*
 
 ## Key Takeaways
@@ -16,8 +16,6 @@
 - **Content "pickup" by LLMs**: For pre-trained models, the content needs to exist before training cut-offs and be in crawlable, high-quality sources. For RAG systems, we are competing with real-time search results
 
 ## Market Awareness Gap
-
-### Current State of Understanding
 - Most marketers view AI search as "SEO 2.0" rather than a distinct field, market still nascent (5-10% inbound traffic right now is from ChatGPT)
 - Two types of clients: Experimental clients (just explore and learn with minimal investment) vs informed clients (coming with a specific ask -> demo -> move to execution)
 - Limited awareness about execution capabilities and differences between traditional SEO and AEO
@@ -26,6 +24,7 @@
 - Existing marketers positioning AI search as SEO extension missing the paradigm shift and what it takes to generate content optimised for AI training data
 
 ### Market Segmentation Insights
+
 **High Interest Segments:**
 - D2C companies (faster market fit, can productize the playbook, recurring sales potential). Currently use influencer marketing and quick commerce ascore distribution channel but if shown promising results, we could create a playbook and productise the offering
 - B2B SaaS companies (understand tech differentiation using comparision format training data)
@@ -104,4 +103,4 @@
 3. **Token Context Windows**: How LLMs process and prioritize information within their context windows, which is crucial for optimization
 4. **Attribution Challenge**: LLMs often don't provide consistent citations, making ROI measurement extremely difficult
 ---
-*These insights compiled from internal research, customer interviews, and technical experimentation in the AI search optimization space by Kalyani Khona and Neuverge Labs Private Limited.*
+*These insights compiled from internal research, customer interviews, and technical experimentation in the AI search optimization space by Kalyani Khona and Neuverge Labs Private Limited (https://neusearch.ai/).*
