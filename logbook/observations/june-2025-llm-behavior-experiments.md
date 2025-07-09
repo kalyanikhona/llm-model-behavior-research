@@ -64,6 +64,8 @@ Fine-tuning on open source base models only affects systems you own, not where c
 - Fine-tuning is relevant for internal ops (HR, legal) but marketing and brand teams need to work with existing closed-knit LLMs by providing high quality training data
 - "Where are customers actually interacting with AI" is an important question to ask (if its travel or finance, you will find your users on perplexity or chatgpt, if its SaaS or coding, you'll find your end user on claude and so on)
 
+## Research notes and insights on GEO/AEO with [https://neusearch.ai/](neusearch.ai team) [findings here](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/ai-search-optimization-market-insights-july-2025.md) 
+
 ## July 8, 2025 (Tuesday)
 
 - Understanding the basics of Llama base model and assistant model, parameters, pre-training data, fine tuning etc
