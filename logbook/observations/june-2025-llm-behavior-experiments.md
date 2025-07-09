@@ -35,7 +35,7 @@ Question: How can brands ethically influence their representation in AI outputs?
 - Timeline: 2-4 months including testing
 - Risk: Model dependency, ethical concerns
 
-# **Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
+### **Shortcomings**: Fine-tuning only works for internal/owned systems (best leveraged by companies like Mckinsey and likes)
 
 - A brand's fine-tuned model sits on their servers
 - When users ask ChatGPT "best smartphone?", they're hitting OpenAI's models, not the brand's
@@ -49,7 +49,7 @@ Most AI consultants sell fine-tuning without acknowledging this fundamental dist
 - Custom fine-tuning agreements
 - Brand safety controls
 
-# **Shortcomings**: Only mega-enterprises have leverage for model partnerships
+### **Shortcomings**: Only mega-enterprises have leverage for model partnerships
 
 - Providers resist this because it compromises perceived neutrality (trust)
 - Creates pay-to-play dynamics that users and regulators oppose
