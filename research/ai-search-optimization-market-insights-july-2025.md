@@ -1,6 +1,20 @@
 # AI Search Optimization Market Insights with Neuverge Labs Private Limited 
 *Research Notes by Kalyani Khona | July 8, 2025*
 
+## Key Takeaways
+
+- Recognition that GEO is fundamentally different from SEO
+- Understanding that temperature/randomness affects consistency
+- Focus on D2C/e-commerce as a good initial market (product comparisons are indeed common LLM queries)
+- Platform approach with integrations is the best way forward (to avoid building redundancy)
+- Multi-agent architecture could work well for content analysis
+
+## Challenges with content optimization
+
+- **Reverse engineering visibility**: LLMs don't have a ranking algorithm (pagerank) like Google. Their responses depend on complex interactions between pretraining data, fine-tuning, and prompting quality
+- **Forcing web search visibility**: You cannot force a web search on user's part. Remember that many generic or basic LLM interactions don't involve web search at all. They rely on pre-trained knowledge
+- **Content "pickup" by LLMs**: For pre-trained models, the content needs to exist before training cut-offs and be in crawlable, high-quality sources. For RAG systems, we are competing with real-time search results
+
 ## Market Awareness Gap
 
 ### Current State of Understanding
@@ -79,9 +93,15 @@
 ## Key Unanswered Questions
 
 1. Why do identical queries produce different LLM responses? 
-2. How to predict which content gets picked up by AI systems? (query type research and citation landscape mapping)
+2. How to predict which content gets picked up by AI systems? (attribution challenge, citation landscape mapping) 
 3. What triggers web search vs static response in ChatGPT? (freshness of data, relevance, pretraining data, create a system to identify web-search vs non-web-search prompts)
 4. How to maintain accuracy while scaling automation? (dialing up/down on the number of prompts, frequency (daily/weekly) etc.
 
+## Future Discussion
+
+1. **LLM Training Data Cut-offs**: How different LLMs have different training data cut-offs and update cycles. This fundamentally affects what content can be "optimized" for discovery
+2. **RAG vs Pre-training**: Optimizing for pre-training data (which is largely historical) versus optimizing for retrieval-augmented generation (RAG) systems that search the web in real-time
+3. **Token Context Windows**: How LLMs process and prioritize information within their context windows, which is crucial for optimization
+4. **Attribution Challenge**: LLMs often don't provide consistent citations, making ROI measurement extremely difficult
 ---
 *These insights compiled from internal research, customer interviews, and technical experimentation in the AI search optimization space by Kalyani Khona and Neuverge Labs Private Limited.*
