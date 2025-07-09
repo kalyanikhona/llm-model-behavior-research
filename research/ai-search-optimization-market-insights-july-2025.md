@@ -160,6 +160,37 @@ LLMs prefer this when:
 - When competing with many similar services
 - Building "entity recognition (helping LLMs understand what you are)
 
+**Summary:**
+When someone asks "What's the best coffee subscription?", the LLM has to:
+
+1. Understand what information is most relevant
+2. Pick from millions of web pages
+3. Summarize in a helpful way
+
+By testing different densities, we learn:
+
+- High density might win for "how to choose coffee beans" queries
+- Low density might win for "quick coffee delivery" queries
+- Keyword-optimized might help LLMs remember the brand name
+
+Let's say you're optimizing for the query: "best coffee subscription for beginners"
+
+Test these variations:
+
+1. High density: Include brewing guides, flavor wheel explanations, origin stories
+2. Medium density: Focus on ease of use, variety packs, basic flavor descriptions
+3. Low density: "Easy. Affordable. Delivered monthly. No coffee knowledge needed.
+4. Keyword optimized: Repeat "beginner-friendly coffee subscription" naturally throughout
+
+We should create all four versions and see which one ChatGPT, Claude, and Perplexity prefer to quote when answering that specific query. 
+
+Need to do this on recurring basis because
+1. Lacks industry wide systemic study
+2. Change and upgrade (update) in model may change preference and format of responses
+3. Query dependent preferences and responses
+
+what we know so far is **claude** relies heavly on pretrained data (unless asked to conduct deep research query) and hence content optimization is challenging. Gemini does rely on traditional search (SEO formatted, PR articles and blogs).
+
 ## Key Questions
 
 1. Why do identical queries produce different LLM responses? 
