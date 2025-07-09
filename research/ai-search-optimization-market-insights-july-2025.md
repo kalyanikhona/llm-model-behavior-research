@@ -26,11 +26,13 @@
 ### Market Segmentation Insights
 
 **High Interest Segments:**
+
 - D2C companies (faster market fit, can productize the playbook, recurring sales potential). Currently use influencer marketing and quick commerce ascore distribution channel but if shown promising results, we could create a playbook and productise the offering
 - B2B SaaS companies (understand tech differentiation using comparision format training data)
 - E-commerce platforms (need product visibility in AI responses)
 
 **Low Interest Segments:**
+
 - Large enterprises with established market share
 - Service-based companies (longer sales funnels)
 - Traditional SEO-focused agencies
@@ -38,12 +40,14 @@
 ## Technical Insights
 
 ### LLM Behavior Patterns Observed
+
 - ChatGPT provides inconsistent results for identical queries (run lesser prompts but with higher frequency to improve accuracy)
 - Heavy reliance on Reddit and user-generated content for product recommendations (all search results for earbuds and furniture rental had a section called "what users say" which was picked from Reddit
 - Temperature settings significantly impact response consistency
 - Web search vs non-web search queries show distinct behavior patterns (most AI tracking tools show citations across all queries, including non-web search)
 
 ### Content Strategy Findings
+
 - AI-generated content performs well on LinkedIn, poorly on Twitter/Instagram
 - Product comparison documents specifically formatted for LLMs show promise
 - Citation patterns vary significantly across platforms (need to map the citation landscape across different LLMs)
@@ -51,6 +55,7 @@
 ## Product Development Insights
 
 ### Critical Success Factors
+
 1. **Accuracy over features**: Trust metrics more important than feature count
 2. **Transparency**: Show probability indicators for visibility confidence (with weekly update on improvement in the probabilities as we get thorough with research)
 3. **Platform approach**: Integration with existing SEO tools creates competitive advantage (multi agent system running GEO ops and optimisation)
@@ -62,6 +67,7 @@
 - **Query intent mapping**: Create a system to identify high-value queries in our clients' industries and optimize for those specific patterns
 
 ### Pricing Model Learnings
+
 - Feature-based pricing resonates better than prompt-based
 - Free tier should be demo-only
 - Per-competitor tracking model (similar to Meltwater) shows promise
@@ -75,6 +81,7 @@
 - Multi-agent systems showing promise for workflow automation
 
 ### Differentiation Opportunities
+
 - Content analysis predicting likelihood of LLM citing the content piece
 - Reverse-engineering visibility patterns
 - Automated workflow reducing turnaround from 6 months to 3 months
@@ -83,12 +90,14 @@
 ## Strategic Recommendations
 
 ### Go-to-Market Approach
+
 1. Focus/shortlist on e-commerce/D2C as GTM
 2. Develop vertical-specific playbooks (coffee, earbuds, furniture rental examples)
 3. Lead with research-backed content, not sales metrics (research > sales)
 4. Position as novel multi-agent platform, not just another GEO tool or SEO replacement option
 
 ### Technical Priorities
+
 - Multi-agent architecture for content optimization
 - Temperature control and result averaging for consistency
 - Focus on accuracy and probabilities 
@@ -96,11 +105,62 @@
 - Integration layer for third-party SEO tools
 
 ## Action Items
+
 - **Testing framework**: Create a system to systematically test how different content formats perform across multiple LLMs and query types
 - **Focus on RAG optimization**: Since we can't influence pre-training, focus on optimizing for retrieval systems (Perplexity, ChatGPT with browsing, etc.)
-- **Tracking infrastructure**: Build robust attribution tracking that can handle the probabilistic nature of LLM responses
+- **Tracking infrastructure**: Build robust attribution tracking that can handle the probabilistic nature of LLM responses. Think of multi layer tracking architecture (query monitoring), setup automated query testing bots, parse responses (brand mention, competitors, citation url when mentioned, sentiment analysis). Give confidence scores to results. 
 
-## Key Unanswered Questions
+## Dashboard Components:
+
+  - Format Performance Matrix: Shows which formats work best for which query types
+  - Compare performance across different LLMs
+  - Trend Analysis: Track performance changes over time
+  - A/B Test Results: Statistical significance of content changes
+  - Estimate value of improved visibility
+
+## Performance Indicators:
+
+metrics = {
+    "mention_rate": "Percentage of times brand/product is mentioned",
+    "position_score": "Average position in response (1st mention = 1.0)",
+    "citation_rate": "How often URL is cited (if applicable)",
+    "accuracy_score": "Factual accuracy of information presented",
+    "prominence_score": "Word count dedicated to your brand vs others",
+    "sentiment_score": "Positive/negative context of mentions",
+    "feature_recall": "Which features are mentioned from your content"
+}
+
+## Content Density Indicators:
+
+1. **High density content (information rich)**
+
+LLMs prefer this when:
+- Technical queries
+- Expert-level questions
+- Detailed comparisons
+
+2. **Medium density content (balanced view)**
+
+LLMs prefer this when:
+- General information queries
+- Standard product searches
+- Most everyday questions
+
+3. **Low density content (basic query)**
+
+LLMs prefer this when:
+- Quick (short) answers
+- Simple comparisons: "cheapest coffee delivery"
+- Mobile or voice queries (people asking Siri/Alexa)
+
+4.  **Keyword optimized content (strategic repetition)**
+
+LLMs prefer this when:
+- Brand-specific searches
+- When competing with many similar services
+- Building "entity recognition (helping LLMs understand what you are)
+
+## Key Questions
 
 1. Why do identical queries produce different LLM responses? 
 2. How to predict which content gets picked up by AI systems? (attribution challenge, citation landscape mapping) 
