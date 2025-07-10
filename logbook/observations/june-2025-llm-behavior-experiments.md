@@ -12,6 +12,9 @@ Tracking daily experiments, observations, third party conversations and insights
 6. ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
 
+## July 10, 2025
+- [Call with A from Akamai](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/generative-search-ai-strategy-notes.md) to discuss investment updates, feedback on ongoing research, new trends in LLMs etc. 
+
 ## July 9, 2025 (Wednesday)
 
 - [Research notes](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/prompt-engineering-vs-fine-tuning-when-to-use-2025.md) on prompt engineering vs fine tuning, cost benefit analysis, model priority matrix
