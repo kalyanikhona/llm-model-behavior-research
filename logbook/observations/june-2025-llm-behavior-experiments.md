@@ -12,8 +12,9 @@ Tracking daily experiments, observations, third party conversations and insights
 6. ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
 
-## July 10, 2025
-- [Call with A from Akamai](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/generative-search-ai-strategy-notes.md) to discuss investment updates, feedback on ongoing research, new trends in LLMs etc. 
+## July 10, 2025 (Thursday)
+- [Call with A from Akamai](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/generative-search-ai-strategy-notes.md) to discuss investment updates, feedback on ongoing research, new trends in LLMs etc.
+- Key takeaway: The GEO space is ripe for disruption but there's a narrow window (6-12 months) before big tech platforms integrate these capabilities natively. Focus on actionable insights (and agentic execution) rather than just monitoring might provide more sustainable value.
 
 ## July 9, 2025 (Wednesday)
 
