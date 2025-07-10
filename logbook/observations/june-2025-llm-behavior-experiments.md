@@ -1,6 +1,6 @@
 # 2025 LLM Behavior Research Logbook
 Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
-
+[model leaderboard](https://lmarena.ai/leaderboard)
 ---
 ## WIP
 
