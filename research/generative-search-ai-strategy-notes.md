@@ -23,14 +23,14 @@ Key findings include a 6-12 month window before basic attribution becomes commod
 - Identifying fabricated facts without external tools remains difficult for users
 
 ### Memory and Computational Constraints
-- **Long-term Memory Issues**: Computational costs and "catastrophic forgetting" limit LLM memory capabilities
-- **Scale Problems: While increased compute power could improve memory, there are inherent limitations due to the nature of neural networks and the scale of user data
-- **Current Solutions to Memory/Scale**: ChatGPT uses caching/retrieval for conversations, enterprise systems using RAG with controlled datasets
+- **Long-term memory issues**: Computational costs and "catastrophic forgetting" limit LLM memory capabilities (liquid AI has a breakthrough but they have not been ready for public use and may not be able to compete the existing large models on real world applications)
+- **Scale problems**: While increased compute power could improve memory, there are inherent limitations due to the nature of neural networks and the scale of user data
+- **Current solutions to memory**: ChatGPT uses caching/retrieval for conversations, enterprise systems using RAG with controlled datasets
 - **Evolution**: Training methods largely unchanged, but scaling laws and data preprocessing improvements drive performance gains
 
 ### Interpretability Challenges
-- **Core Limitation**: LLMs perform pattern matching and prediction, not genuine reasoning
-- **Scale Problem**: Model size creates interpretability challenges for independent researchers/labs (frontier lab models are opaque)
+- LLMs perform pattern matching and prediction, not genuine reasoning
+- Model size creates interpretability challenges for independent researchers/labs (frontier lab models are opaque)
 - Still required even for tasks like sentiment analysis through fine-tuning
 - Surprising ability to handle new tasks that the model has not been trained on before, but underlying mechanisms remain opaque
 
@@ -108,7 +108,7 @@ Key findings include a 6-12 month window before basic attribution becomes commod
 
 ### Technical Architecture Trends
 - **Large world models**: Industry shift towards processing multiple data modalities (text, image, voice, video)
-- **[Liquid AI](https://www.liquid.ai/) Approach**: Alternative LLM architecture methodologies for improved efficiency and performance
+- **[Liquid AI]([https://www.liquid.ai/](https://github.com/Decentralised-AI/LFM-Liquid-AI-Liquid-Foundation-Models)) Alternative (non GPT) LLM architecture methodologies. They've essentially solved the "scaling problem" that has made long-context processing so expensive and slow.
 - **Enterprise vs consumer scale**: Different approaches needed for controlled enterprise datasets vs. massive consumer-scale challenges
 ---
 
