@@ -1,6 +1,7 @@
 # 2025 LLM Behavior Research Logbook
 Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
-[model leaderboard](https://lmarena.ai/leaderboard)
+
+
 ---
 ## WIP
 
@@ -55,6 +56,9 @@ Tracking daily experiments, observations, third party conversations and insights
 ---
 ## Research Status
 *This is a living document updated daily as part of my LLM behavior research.*
+
+## Model Leaderboard
+[tracker](https://lmarena.ai/leaderboard)
 
 **Research Focus**: Understanding LLM response patterns, generative engine optimization, answer engine optimization, NLP deep dive on content density, citation behaviors and landscape, and platform-specific content type/format preferences
 
