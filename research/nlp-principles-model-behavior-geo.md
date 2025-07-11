@@ -479,8 +479,9 @@ When models search and synthesize:
 2. **For Anthropic Models**: Build reasoning chains with clear causality
 3. **For Google Models**: Emphasize verifiable facts with authority signals
 4. **For All Models**: Place related concepts where attention will connect them
+   
+Important: Focus on optimizing for **learned attention patterns** shaped by each lab's fine-tuning philosophy, **not algorithms**
 
-## Focus on optimizing for learned attention patterns shaped by each lab's fine-tuning philosophy, not algorithms
  ---
 
 ## 7. Key Learnings 
