@@ -512,8 +512,10 @@ When models search and synthesize:
 
 Content structure by model:
 
-For OpenAI Models:
+#### Content Structure by Model
 
+**For OpenAI Models**:
+```markdown
 # Topic (Clear H1)
 ## Quick Overview (Bullet points)
 ## Detailed Sections
@@ -521,9 +523,10 @@ For OpenAI Models:
 - Option 2: Pros/Cons
 ## Comparison Table
 ## Quick Start Guide
+```
 
-For Anthropic Models:
-
+**For Anthropic Models**:
+```markdown
 # Understanding [Topic]
 ## Why This Matters
 ## Core Concepts Explained
@@ -531,9 +534,10 @@ Because [reasoning], we can see that...
 ## Evidence and Research
 Studies show... However, it's important to note...
 ## Practical Applications
+```
 
-For Google Models:
-
+**For Google Models**:
+```markdown
 # [Topic]: Expert Guide 2025
 *Last updated: [Date]*
 *By: [Credentialed Author]*
@@ -541,9 +545,20 @@ For Google Models:
 ## Detailed Sections
 According to [Authority Source]...
 ## External References
-
+```
 
 Important: Focus on optimizing for **learned attention patterns** shaped by each lab's fine-tuning philosophy, **not algorithms**
+
+Summary
+
+**Content Features by Model Preference**:
+| Feature | ChatGPT | Claude | Gemini |
+|---------|---------|---------|---------|
+| Lists/Bullets | ⭐⭐⭐ | ⭐ | ⭐⭐ |
+| Long reasoning | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+| Citations | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ |
+| Recent dates | ⭐⭐ | ⭐ | ⭐⭐⭐ |
+| Comparisons | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ |
 
  ---
 
