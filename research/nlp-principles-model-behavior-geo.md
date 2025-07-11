@@ -241,7 +241,7 @@ For new brands to appear in AI responses:
    - Regular publishing rhythm
    - User-generated content
   
-  ## 3. Frontier Lab Approaches to Fine-tuning
+  ## 3. Frontier Lab Approaches
 
 ### 3.1 What Fine-tuning Actually Does (NLP Perspective)
 
@@ -526,7 +526,7 @@ According to [Authority Source]...
 
 ---
 
-# 7-key-learnings
+# 7 key-learnings
 
 1. **Modern AI search is a hybrid system** - combining traditional web crawling with LLM synthesis
 2. **Semantic understanding > keyword matching** - Focus on meaning and context
