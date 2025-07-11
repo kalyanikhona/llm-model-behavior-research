@@ -243,7 +243,7 @@ For new brands to appear in AI responses:
 
 ---
 
-## Key Learnings So Far
+# 7-key-learnings
 
 1. **Modern AI search is a hybrid system** - combining traditional web crawling with LLM synthesis
 2. **Semantic understanding > keyword matching** - Focus on meaning and context
