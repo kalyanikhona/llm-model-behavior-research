@@ -388,13 +388,20 @@ This is why ChatGPT loves lists while Claude prefers conversational exploration!
 - Multiple options approach
 - "2025" triggers web search insight
 - Quick-start sections
+- Structure: Lists, comparison charts, quick-start guides
+- Features: Platform comparisons, equipment tables
+- Tone: Direct recommendations
+- 2025 mention triggers web search for fresh content
 
 **Claude Optimization**:
 - Goal/objective exploration
 - Clarifying questions approach
 - Personalized difficulty levels
 - Step-by-step guidance
-- No auto-search on "2025"
+- Structure: Goal exploration → personalized guidance
+- Features: Why → What → How progression
+- Tone: Conversational, acknowledging complexity
+- Less likely to auto-search on "2025"
 
 **Gemini Optimization**:
 - Authority/credibility focus
@@ -402,6 +409,10 @@ This is why ChatGPT loves lists while Claude prefers conversational exploration!
 - Multi-format content (videos)
 - Strong disclaimers
 - Explicit E-E-A-T optimization
+- Structure: Authoritative sections with citations
+- Features: Expert quotes, success metrics
+- Tone: Professional, fact-based
+- Highest weight on 2025 content
 
 ### 3.6 Attention Mechanisms & Fine-tuning
 
@@ -470,10 +481,10 @@ When models search and synthesize:
 
 1. **Token Economics**: Claude handles long docs better due to attention efficiency from constitutional self-critique training, not just context size
 
-2. **Citation Trust Patterns**: Based on source distribution in fine-tuning:
-   - OpenAI: More Reddit/forum trust (marked "helpful")
-   - Anthropic: More academic trust (marked "truthful")
-   - Google: More authoritative media trust (quality signals)
+2. **Citation Trust Patterns/Training Data Source Distribution**
+   - OpenAI: More Reddit/forum trust (marked "helpful") → trusts user-generated conten
+   - Anthropic: More academic trust (marked "truthful") → trusts scholarly sources
+   - Google: More authoritative media trust (quality signals) → trusts established websites
 
 3. **Certainty Expression**: 
    - GPT-4: "The best option is likely..."
@@ -481,9 +492,15 @@ When models search and synthesize:
    - Gemini: "According to [source]..."
 
 4. **Benchmark Influence**:
-   - OpenAI: User satisfaction metrics
+   - OpenAI: User satisfaction score
    - Anthropic: Truthfulness benchmarks
    - Google: Factual accuracy benchmarks
+  
+5. **Context Window Utilization**:
+   - Fine-tuning affects how models use their context:
+   - GPT: Optimized for shorter, punchy content
+   - Claude: Optimized for long-form analysis
+   - Gemini: Balanced approach
 
 
 ### 3.9 Advanced GEO Strategies
@@ -492,7 +509,40 @@ When models search and synthesize:
 2. **For Anthropic Models**: Build reasoning chains with clear causality
 3. **For Google Models**: Emphasize verifiable facts with authority signals
 4. **For All Models**: Place related concepts where attention will connect them
-   
+
+Content structure by model:
+
+For OpenAI Models:
+
+# Topic (Clear H1)
+## Quick Overview (Bullet points)
+## Detailed Sections
+- Option 1: Pros/Cons
+- Option 2: Pros/Cons
+## Comparison Table
+## Quick Start Guide
+
+For Anthropic Models:
+
+# Understanding [Topic]
+## Why This Matters
+## Core Concepts Explained
+Because [reasoning], we can see that...
+## Evidence and Research
+Studies show... However, it's important to note...
+## Practical Applications
+
+For Google Models:
+
+# [Topic]: Expert Guide 2025
+*Last updated: [Date]*
+*By: [Credentialed Author]*
+## Overview (with citations)
+## Detailed Sections
+According to [Authority Source]...
+## External References
+
+
 Important: Focus on optimizing for **learned attention patterns** shaped by each lab's fine-tuning philosophy, **not algorithms**
 
  ---
