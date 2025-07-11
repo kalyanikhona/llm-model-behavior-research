@@ -480,10 +480,10 @@ When models search and synthesize:
 3. **For Google Models**: Emphasize verifiable facts with authority signals
 4. **For All Models**: Place related concepts where attention will connect them
 
-**Focus on optimizing for learned attention patterns shaped by each lab's fine-tuning philosophy, not algorithms**
+## Focus on optimizing for learned attention patterns shaped by each lab's fine-tuning philosophy, not algorithms
  ---
 
-# 7 key-learnings
+## 7. Key Learnings 
 
 1. **Modern AI search is a hybrid system** - combining traditional web crawling with LLM synthesis
 2. **Semantic understanding > keyword matching** - Focus on meaning and context
