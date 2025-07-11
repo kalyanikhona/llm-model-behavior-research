@@ -5,13 +5,15 @@ Tracking daily experiments, observations, third party conversations and insights
 ---
 ## WIP
 
-1. NLP Principles in LLM Design & Content Optimization
+1. NLP principles in LLM design & content optimization 
 2. Multimodal search: Images, voice
 3. Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
 4. Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
 5. Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 6. ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
+## July 11, 2025 (Friday)
+- NLP principles in LLM design & content optimization [working document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/nlp-principles-model-behavior-geo.md#2-how-models-process--rank-content)
 
 ## July 10, 2025 (Thursday)
 - [Call with A from Akamai](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/generative-search-ai-strategy-notes.md) to discuss investment updates, feedback on ongoing research, new trends in LLMs etc.
