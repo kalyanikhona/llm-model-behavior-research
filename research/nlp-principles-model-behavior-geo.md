@@ -124,8 +124,156 @@ When optimizing for modern AI systems, you're now optimizing for:
 
 ## 2. How Models Process & Rank Content
 
-*[To be continued in next session]*
+### 2.1 The Hidden Ranking System in LLMs
 
+Unlike Google's PageRank algorithm, LLMs don't have traditional "ranking" - they have **"Preference Patterns"** from training:
+
+**Comparison:**
+- **Google**: "This page has 1000 backlinks, it must be authoritative"
+- **LLMs**: "In my training, when people discussed [topic], they usually referenced these sources"
+
+### 2.2 The Three Layers of Content Processing
+
+When LLM + web search processes queries:
+
+1. **Relevance Layer** (Traditional SEO matters)
+   - Web search finds pages with relevant keywords
+   - Similar to Google's initial crawl
+
+2. **Comprehension Layer** (New for GEO)
+   - Can the LLM easily extract information?
+   - Is content structure AI-friendly?
+   - Are concepts clearly defined with context?
+
+3. **Synthesis Preference Layer** (The secret sauce)
+   - Which information aligns with model's training patterns?
+   - What content structure does it prefer to cite?
+   - How does it weight different source types?
+
+### 2.3 Experiment: CRM Recommendations Across Models
+
+**Test Query**: "What are the top 3 CRM solutions for small businesses?"
+
+**Results Summary:**
+- ChatGPT (no search): HubSpot, Zoho, Pipedrive
+- ChatGPT (with search): HubSpot, Zoho, Pipedrive (added citations)
+- Claude (with search): HubSpot, Salesforce, Pipedrive
+- Claude (no search): HubSpot, Salesforce, Pipedrive
+
+**Key Finding**: Web search didn't change core recommendations - only added validation/pricing
+
+### 2.4 Why Pre-training Dominates Over Web Search
+
+#### The Confirmation Bias Loop:
+```
+Pre-trained bias: "HubSpot is good for small business"
+↓
+Searches web → Finds articles mentioning HubSpot
+↓
+Confirms bias → Outputs HubSpot
+```
+
+#### Semantic Monopoly:
+Certain brands achieved deep association with queries during training period (2019-2024):
+- "CRM" → HubSpot, Salesforce
+- "Spreadsheet" → Excel
+- "Video conferencing" → Zoom
+
+### 2.5 Why AI-Friendly Content Structure Matters
+
+**Common Misconception**: "LLMs can process any content format"
+
+**Reality**: Processing ability ≠ Processing preference
+
+#### Example - Messy vs Clean Structure:
+```html
+<!-- Messy (Low confidence extraction) -->
+<div>Our pricing starts at just $15!</div>
+<span>per user</span>
+<p>monthly if billed annually</p>
+
+<!-- AI-Friendly (High confidence extraction) -->
+<div class="pricing">
+  <h3>Pricing</h3>
+  <p>$15 per user per month (billed annually)</p>
+</div>
+```
+
+**Impact**: 
+- Clear structure = Higher confidence score = More likely to be synthesized
+- Ambiguous structure = More compute needed = May be ignored
+
+### 2.6 Breaking Into AI Responses - Complete Strategy
+
+For new brands to appear in AI responses:
+
+1. **High-quality comparison content** ✓
+2. **Crawlable for future training data** ✓
+3. **Traditional SEO optimization** ✓
+4. **Semantic Positioning Strategy**
+   - Target: "CRM for [specific niche]" not generic "best CRM"
+   - Own unique semantic space
+
+5. **Wikipedia/Reddit Strategy**
+   - These sources heavily weighted in training
+   - Need authentic, organic mentions
+
+6. **Structured Data Markup**
+   ```json
+   {
+     "@type": "SoftwareApplication",
+     "name": "YourCRM",
+     "applicationCategory": "CRM",
+     "offers": {
+       "@type": "Offer",
+       "price": "15.00"
+     }
+   }
+   ```
+
+7. **Anti-Pattern Content**
+   - "Why X is different from HubSpot"
+   - "When NOT to use traditional CRMs"
+   - Forces models to mention you as alternative
+
+8. **Fresh Signal Optimization**
+   - Weekly updates/changelog
+   - Regular publishing rhythm
+   - User-generated content
+
+---
+
+## Key Learnings So Far
+
+1. **Modern AI search is a hybrid system** - combining traditional web crawling with LLM synthesis
+2. **Semantic understanding > keyword matching** - Focus on meaning and context
+3. **Different models = different biases** - Training data composition affects brand representation
+4. **Tokenization matters** - How your brand name is broken down affects recognition
+5. **Dual optimization needed** - Must optimize for both crawling and synthesis layers
+6. **Pre-training bias is stronger than web search** - Established brands have semantic monopoly
+2. **Content structure affects synthesis** - Clear structure = higher confidence = better visibility
+3. **New brands need different strategies** - Can't compete head-on with semantic monopolies
+4. **Web search confirms more than discovers** - Acts as validation layer, not discovery layer
+5. **Future-proofing matters** - Optimize for next generation model training, not just current search
+
+
+---
+
+## Questions for Further Exploration
+
+- How do users actually interact with AI chatbots vs traditional search?
+- What prompting patterns are most common among mainstream users?
+- How can brands ensure consistent representation across different LLM platforms?
+- What content structures work best for AI comprehension and synthesis?
+
+---
+
+## Next Topics to Cover
+
+- Detailed analysis of how models rank and prioritize content
+- User behavior studies and prompting patterns
+- Practical GEO optimization strategies
+- Frontier lab fine-tuning methodologies
 ---
 
 ## Key Learnings So Far
