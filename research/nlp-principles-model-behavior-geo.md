@@ -296,7 +296,7 @@ Raw Text → Pre-training (learn language) → Fine-tuning (learn behavior) → 
   - More formal tone
   - Highest recency bias
 
-**GEO Implication**: Gemini likely favors content that aligns with Google's E-E-A-T signals and freshness.
+**GEO Implication**: Gemini likely favors content that aligns with Google's E-E-A-T (experience, expertise, authoritativeness, trustworthiness) signals and freshness.
 
 #### **4. Meta (LLaMA) - The "Open Research" Approach**
 
@@ -311,7 +311,7 @@ Raw Text → Pre-training (learn language) → Fine-tuning (learn behavior) → 
 
 **GEO Implication**: Different LLaMA variants may have completely different content preferences based on fine-tuning.
 
-### 3.3 The Technical Details That Matter for GEO
+### 3.3 Technical Details 
 
 #### **Instruction Tuning Differences**
 
@@ -367,32 +367,30 @@ This is why ChatGPT loves lists while Claude prefers conversational exploration!
 - Recent, updated information
 - E-E-A-T aligned content
 
-### 3.5 Real Test Case: "How to Start a Podcast in 2025"
+### 3.5 Experiment Results: "How to Start a Podcast in 2025"
 
-**Student Analysis & Scoring (92/100)**:
+**ChatGPT Optimization**:
+- Pros/cons lists
+- Comparison charts for equipment/platforms
+- Multiple options approach
+- "2025" triggers web search insight
+- Quick-start sections
 
-**ChatGPT Optimization (9/10)**:
-- ✅ Pros/cons lists
-- ✅ Comparison charts for equipment/platforms
-- ✅ Multiple options approach
-- ✅ "2025" triggers web search insight
-- Missing: Quick-start sections
+**Claude Optimization**:
+- Goal/objective exploration
+- Clarifying questions approach
+- Personalized difficulty levels
+- Step-by-step guidance
+- No auto-search on "2025"
 
-**Claude Optimization (10/10)**:
-- ✅ Goal/objective exploration
-- ✅ Clarifying questions approach
-- ✅ Personalized difficulty levels
-- ✅ Step-by-step guidance
-- ✅ No auto-search on "2025"
+**Gemini Optimization**:
+- Authority/credibility focus
+- Citation-heavy approach
+- Multi-format content (videos)
+- Strong disclaimers
+- Explicit E-E-A-T optimization
 
-**Gemini Optimization (8.5/10)**:
-- ✅ Authority/credibility focus
-- ✅ Citation-heavy approach
-- ✅ Multi-format content (videos)
-- ✅ Strong disclaimers
-- Missing: Explicit E-E-A-T optimization
-
-### 3.6 Deep Dive: Attention Mechanisms & Fine-tuning
+### 3.6 Attention Mechanisms & Fine-tuning
 
 #### **What is Attention?**
 
@@ -453,9 +451,9 @@ When models search and synthesize:
 2. **Search Processing**: Scans results for matching attention patterns
 3. **Synthesis**: Combines info based on learned preferences
 
-**Key Insight**: You're optimizing for attention patterns, not keywords!
+**GEO Insight**: Optimizing for attention patterns, not keywords!
 
-### 3.8 Critical Knowledge Gaps Addressed
+### 3.8 Other Important Notes
 
 1. **Token Economics**: Claude handles long docs better due to attention efficiency from constitutional self-critique training, not just context size
 
@@ -474,22 +472,15 @@ When models search and synthesize:
    - Anthropic: Truthfulness benchmarks
    - Google: Factual accuracy benchmarks
 
-### 3.9 Key Takeaways for GEO
 
-1. **Different fine-tuning = Different content preferences** at the attention level
-2. **Instruction templates shape behavior** more than most realize
-3. **RLHF rewards create implicit biases** in content selection
-4. **Attention patterns determine** what gets synthesized
-5. **Model-specific optimization required** - no universal approach
-
-### 3.10 Advanced GEO Strategies
+### 3.9 Advanced GEO Strategies
 
 1. **For OpenAI Models**: Structure content for list-attention patterns
 2. **For Anthropic Models**: Build reasoning chains with clear causality
 3. **For Google Models**: Emphasize verifiable facts with authority signals
 4. **For All Models**: Place related concepts where attention will connect them
 
-**The Million Dollar Insight**: You're not optimizing for algorithms anymore. You're optimizing for learned attention patterns shaped by each lab's fine-tuning philosophy.
+**Focus on optimizing for learned attention patterns shaped by each lab's fine-tuning philosophy, not algorithms**
  ---
 
 # 7 key-learnings
@@ -510,6 +501,11 @@ When models search and synthesize:
 14. **Content optimization must be model-specific** - One size does not fit all
 15. **Hidden biases from training data** - Source distribution affects trust patterns
 16. **Technical constraints matter** - Context windows, instruction templates affect processing
+17. **Different fine-tuning = Different content preferences** at the attention level
+18. **Instruction templates shape behavior** more than most realize
+19. **RLHF rewards create implicit biases** in content selection
+20. **Attention patterns determine** what gets synthesized
+21. **Model-specific optimization required** - no universal approach
 
 
 ---
