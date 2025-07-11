@@ -251,6 +251,7 @@ For new brands to appear in AI responses:
 ```
 Raw Text → Pre-training (learn language) → Fine-tuning (learn behavior) → Your ChatGPT/Claude
 ```
+Insight: Same base knowledge, different behavioral outputs based on fine-tuning approach.
 
 ### 3.2 The Four Major Approaches
 
@@ -265,8 +266,12 @@ Raw Text → Pre-training (learn language) → Fine-tuning (learn behavior) → 
   - More willing to speculate
   - Often provides multiple options
   - Quick, actionable answers rewarded
+- **Attention Pattern Characteristics**:
+  - Heads specialized for list detection
+  - Strong attention to quantifiable benefits
+  - Prefers scannable content structure
 
-**GEO Implication**: OpenAI models favor content that offers choices and alternatives. They're trained to give users options.
+**GEO Implication**: OpenAI models favor content that offers choices and alternatives. They're trained to give users options. Optimize content with clear lists, comparisons, and multiple options. ChatGPT will synthesize structured content more readily.
 
 #### **2. Anthropic (Claude) - The "Constitutional AI" Approach**
 
