@@ -285,8 +285,12 @@ Insight: Same base knowledge, different behavioral outputs based on fine-tuning 
   - Explicitly acknowledges uncertainty
   - Longer, more nuanced responses
   - Reasoning-focused attention patterns
+-**Attention Pattern Characteristics**:
+  - Heads specialized for causal relationships
+  - High attention to "because," "therefore," "evidence"
+  - Better long-document coherence
 
-**GEO Implication**: Claude favors authoritative, well-reasoned content with clear evidence. Academic and research-backed content performs better.
+**GEO Implication**: Claude favors authoritative, well-reasoned content with clear evidence. Academic and research-backed content performs better. Optimize content with clear reasoning, evidence, and nuanced explanations. 
 
 #### **3. Google (Gemini) - The "Multimodal Integration" Approach**
 
@@ -300,8 +304,12 @@ Insight: Same base knowledge, different behavioral outputs based on fine-tuning 
   - Integrates recent information more readily
   - More formal tone
   - Highest recency bias
+ - **Attention Pattern Characteristics**:
+  - Heads tuned to authority signals
+  - High attention to citations and sources
+  - Temporal attention (dates, "latest," "2025")
 
-**GEO Implication**: Gemini likely favors content that aligns with Google's E-E-A-T (experience, expertise, authoritativeness, trustworthiness) signals and freshness.
+**GEO Implication**: Gemini likely favors content that aligns with Google's E-E-A-T (experience, expertise, authoritativeness, trustworthiness) signals and freshness. Optimize for traditional SEO signals. Gemini trusts established, recently-updated sources.
 
 #### **4. Meta (LLaMA) - The "Open Research" Approach**
 
@@ -314,7 +322,7 @@ Insight: Same base knowledge, different behavioral outputs based on fine-tuning 
   - Often more technical/direct
   - Less "personality" in base form
 
-**GEO Implication**: Different LLaMA variants may have completely different content preferences based on fine-tuning.
+**GEO Implication**: Must understand specific variant. No universal LLaMA optimization strategy. Different LLaMA variants may have completely different content preferences based on fine-tuning.
 
 ### 3.3 Technical Details 
 
