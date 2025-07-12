@@ -12,6 +12,9 @@ Tracking daily experiments, observations, third party conversations and insights
 5. Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 6. ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
+## July 12, 2025 (Saturday)
+- [Research notes](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/image_generative_ai_research.md) for the meeting with the founder on image generative AI (computation costs, training data set and GTM)
+
 ## July 11, 2025 (Friday)
 - NLP principles in LLM design & content optimization [working document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/nlp-principles-model-behavior-geo.md#2-how-models-process--rank-content)
 
