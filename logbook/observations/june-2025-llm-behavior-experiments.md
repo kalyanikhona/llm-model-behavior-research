@@ -14,24 +14,7 @@ Tracking daily experiments, observations, third party conversations and insights
 
 ## July 14, 2025 (Monday)
 - Wikipedia sandbox experiment (3-4 weeks wait time for review, prep to test LLMs <> wikipedia citation improvements next month)
-
-Some interesting learnings:
-
-Article quality (class):
-
-- Stub = Very basic, few sentences
-- Start = Basic info, properly sourced
-- C = Substantial content, good sourcing
-- B = Comprehensive, well-written
-- GA = Good Article (formal review passed)
-- FA = Featured Article (Wikipedia's best)
-
-Importance to project:
-
-- Low = Notable but specialized interest
-- Mid = Significant to the field/region
-- High = Major figure, broad importance
-- Top = Extremely significant globally
+- o3 temperature experiment (same prompt, same time, both paid accounts, different IP got two different responses. Context same, format, structure and CTA was different).
 
 ## July 12, 2025 (Saturday)
 - [Research notes](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/image_generative_ai_research.md) for the meeting with the founder on image generative AI (computation costs, training data set and GTM)
