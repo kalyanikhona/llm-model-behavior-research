@@ -941,7 +941,7 @@ Starting now, create content that has the following:
 - Establishing topical authority
 - Maintaining content freshness
 
-## 5. User Behaviour
+## 5. User Behavior
 
 *Note: This section combines verified research data (clearly cited) with illustrative examples and observed patterns from public discussions. Where specific statistics are provided without citation, they should be understood as examples to illustrate concepts rather than verified data points.*
 
