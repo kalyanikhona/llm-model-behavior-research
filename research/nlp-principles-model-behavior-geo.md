@@ -1,8 +1,8 @@
 # NLP Principles for Model Behavior Research & GEO Strategy
 
-Document Type: Planning Notes
-Date: July 11, 2025
-Focus: NLP, Frontier model, LLM architecture, user behaviour, prompting patterns
+- Document Type: Planning Notes
+- Date: July 11, 2025
+- Focus: NLP, Frontier model, LLM architecture, user behaviour, prompting patterns
 
 ---
 
@@ -562,7 +562,7 @@ Summary
 
  ---
 
-## 4. Content Visibility & LLM Preferences
+## 4. Content Visibility
 
 Content must pass through multiple filters to be synthesized. Can can fail at ANY layer and become invisible.
  
