@@ -1,4 +1,4 @@
-# Document Title: GEO Content Performance Tracking Framework & Testing Protocol
+# GEO Content Performance Tracking Framework & Testing Protocol
 **Date**: July 15, 2025  
 **Status**: Active Framework  
 **Author**: KK92-ai  
