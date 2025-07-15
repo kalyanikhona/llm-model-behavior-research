@@ -907,6 +907,8 @@ Highly extractable, matches conversational training data.
 3. Compare against competitor content
 4. Track changes over time
 
+[geo content performance tracking framework](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/geo-content-performance-tracking-framework.md)
+
 ### 4.11 Practical Implementation Guide
 
 #### For New Content:
