@@ -510,8 +510,6 @@ When models search and synthesize:
 3. **For Google Models**: Emphasize verifiable facts with authority signals
 4. **For All Models**: Place related concepts where attention will connect them
 
-## 4. Content Visibility
-
 Content structure by model:
 
 #### Content Structure by Model
@@ -564,7 +562,7 @@ Summary
 
  ---
  
-## 4. Content Visibility & LLM Preferences
+## 4. Content Visibility
 
 ### 4.1 Query Intent Trumps General Preferences
 
