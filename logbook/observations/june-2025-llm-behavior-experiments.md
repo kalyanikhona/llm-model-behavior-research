@@ -14,6 +14,7 @@ Tracking daily experiments, observations, third party conversations and insights
 
 ## July 15, 2025 (Tuesday)
 - [continue] NLP principles in LLM design & content optimization [working document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/nlp-principles-model-behavior-geo.md#2-how-models-process--rank-content)
+- LLMs are good internet compilers but low on new insights, creativity and unique human like creativity. Gwern's [AI day dreaming](https://gwern.net/ai-daydreaming)
 
 ## July 14, 2025 (Monday)
 - Wikipedia sandbox experiment (3-4 weeks wait time for review, prep to test LLMs <> wikipedia citation improvements next month)
