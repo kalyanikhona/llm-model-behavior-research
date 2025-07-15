@@ -562,6 +562,23 @@ Summary
 
  ---
 
+## 4. Content Visibility & LLM Preferences
+
+Content must pass through multiple filters to be synthesized. Can can fail at ANY layer and become invisible.
+ 
+1. Crawlability (Can it be found?)
+         ↓
+2. Parsability (Can it be understood?)
+         ↓
+3. Relevance (Does it match intent?)
+         ↓
+4. Efficiency (Is it easy to extract?)
+         ↓
+5. Confidence (Is it trustworthy?)
+         ↓
+6. Synthesis (Gets included in response)
+ 
+
 ## 7. Key Learnings 
 
 1. **Modern AI search is a hybrid system** - combining traditional web crawling with LLM synthesis
