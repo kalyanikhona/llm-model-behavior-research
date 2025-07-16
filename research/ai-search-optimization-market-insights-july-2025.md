@@ -1,4 +1,4 @@
-# AI Search Optimization Insights with [Neuverge Labs Private Limited](https://neusearch.ai/)
+# GEO Insights with [Neuverge Labs Private Limited](https://neusearch.ai/) - Meeting #1
 *Research Notes by Kalyani Khona | July 8, 2025*
 
 ## Key Takeaways
