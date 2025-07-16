@@ -5,20 +5,20 @@ Tracking daily experiments, observations, third party conversations and insights
 ---
 ## WIP
 
-1. 15th July - Neusearch call note
-2. Multimodal LLMs research: Images, voice
-3. Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
-4. Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
-5. Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
-6. ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
+- Multimodal LLMs research: Images, voice
+- Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
+- Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
+- Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
+- (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
 ## July 16, 2025 (Wednesday)
-- completed NLP document and sent for feedback and review.
+- completed NLP document and sent for feedback and review
+- Neusearch technical discussion, meeting notes #2, GTM discussion notes in private repo. [notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting-notes-2.md)
 
 ## July 15, 2025 (Tuesday)
 - [continue] NLP principles in LLM design & content optimization [working document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/nlp-principles-model-behavior-geo.md#2-how-models-process--rank-content)
 - LLMs are good internet compilers, discovery tools since internet is huge but low on new insights, creativity and unique human like creativity. Gwern's [AI day dreaming](https://gwern.net/ai-daydreaming)
-- Call with neusearch team (compile notes)
+- Call with Neusearch team [notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting%20notes-1.md)
 
 ## July 14, 2025 (Monday)
 - Wikipedia sandbox experiment (3-4 weeks wait time for review, prep to test LLMs <> wikipedia citation improvements next month)
@@ -32,20 +32,17 @@ Tracking daily experiments, observations, third party conversations and insights
 
 ## July 10, 2025 (Thursday)
 - [Call with A from Akamai](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/generative-search-ai-strategy-notes.md) to discuss investment updates, feedback on ongoing research, new trends in LLMs etc.
-- Key takeaway: The GEO space is ripe for disruption but there's a narrow window (6-12 months) before big tech platforms integrate these capabilities natively. Focus on actionable insights (and agentic execution) rather than just monitoring might provide more sustainable value.
+- The GEO space is ripe for disruption but there's a narrow window (6-12 months) before big tech platforms integrate these capabilities natively. Focus on actionable insights (and agentic execution) rather than just monitoring might provide more sustainable value.
 
 ## July 9, 2025 (Wednesday)
 
 - [Research notes](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/prompt-engineering-vs-fine-tuning-when-to-use-2025.md) on prompt engineering vs fine tuning, cost benefit analysis, model priority matrix
-- Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/) - [findings here](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/ai-search-optimization-market-insights-july-2025.md)
-- ChatGPT x Bing for internet search
+- Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/) - [notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting%20notes-1.md)
+- ChatGPT x Bing for internet search (when ChatGPT crawls a website, the identifer could be bingbot and not chatgpt)
 
 ## July 8, 2025 (Tuesday)
 
 - Understanding the basics of Llama base model and assistant model, parameters, pre-training data, fine tuning etc
-- ***Base model (pretraining)***: download text from the internet -> get GPU clusters -> compress the text into neural net -> pay $$ mn, wait for 10-12 days -> obtain base model
-- ***Assistance model (finetuning)***: once you have the base model -> write labeling instructions i.e how your AI should behave -> scale AI to collect 100K high quality formatted responses -> feed into base model data and wait for 1 day -> obtain assitant model -> run evals -> deploy -> monitor behaviour -> iterate i.e. go back to labeling instructions
-- ***Finetuning via comparision labels*** or RLHF (optional) in situations where humans may not be able to write answers or have limited context. OpenAI did this with its actual users/early adopters since the early days.
 
 ## June 27, 2025 (Friday)
 - Understanding the decision making workflow of a search query [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
