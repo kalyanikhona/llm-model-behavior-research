@@ -1751,22 +1751,27 @@ if (model === "ChatGPT") {
 ### 6.10 Common GEO Mistakes to Avoid
 
 #### Mistake 1: Over-Optimizing for One Model
+
 **Problem**: Claude changes algorithm, traffic disappears
 **Solution**: Diversify across all major models
 
 #### Mistake 2: Ignoring Traditional SEO
+
 **Problem**: No web search visibility = no AI visibility
 **Solution**: GEO enhances, doesn't replace SEO
 
 #### Mistake 3: Keyword Stuffing 2.0
+
 **Problem**: Trying to game AI with repetition
 **Solution**: Focus on semantic richness, not repetition
 
 #### Mistake 4: Static Optimization
+
 **Problem**: Models update, strategy doesn't
 **Solution**: Monthly reviews and updates
 
 #### Mistake 5: Ignoring User Intent Evolution
+
 **Problem**: Optimizing for today's 4-word queries
 **Solution**: Prepare for tomorrow's conversational queries
 
