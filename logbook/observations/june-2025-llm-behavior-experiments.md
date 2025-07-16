@@ -13,7 +13,7 @@ Tracking daily experiments, observations, third party conversations and insights
 
 ## July 16, 2025 (Wednesday)
 - completed NLP document and sent for feedback and review
-- Neusearch technical discussion, meeting notes #2, GTM discussion notes in private repo. [notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting-notes-2.md)
+- Neusearch technical discussion, meeting notes #2, GTM discussion notes in private repo. [private notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting-notes-2.md)
 
 ## July 15, 2025 (Tuesday)
 - [continue] NLP principles in LLM design & content optimization [working document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/nlp-principles-model-behavior-geo.md#2-how-models-process--rank-content)
@@ -37,7 +37,7 @@ Tracking daily experiments, observations, third party conversations and insights
 ## July 9, 2025 (Wednesday)
 
 - [Research notes](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/prompt-engineering-vs-fine-tuning-when-to-use-2025.md) on prompt engineering vs fine tuning, cost benefit analysis, model priority matrix
-- Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/) - [notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting%20notes-1.md)
+- Research notes and insights on GEO/AEO, LLM behaviour with [neusearch team](https://neusearch.ai/) - [private notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting%20notes-1.md)
 - ChatGPT x Bing for internet search (when ChatGPT crawls a website, the identifer could be bingbot and not chatgpt)
 
 ## July 8, 2025 (Tuesday)
