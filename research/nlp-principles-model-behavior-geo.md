@@ -1,5 +1,7 @@
 # NLP Principles for Model Behavior Research & GEO Strategy
 
+Note: This document only covers Text LLM based research. For multimodal, visit my other repo [GEO advanced](https://github.com/KK92-ai/geo-advanced-research/blob/main/01-multimodal-search.md)
+
 - Document Type: Research Notes
 - Start Date: July 11, 2025
 - Completed: July 16, 2025
