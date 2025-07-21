@@ -14,7 +14,7 @@ Tracking daily experiments, observations, third party conversations and insights
 - Advanced GEO [research](https://github.com/KK92-ai/geo-advanced-research)
 
 ## July 16, 2025 (Wednesday)
-- completed NLP document and sent for feedback and review
+- Completed NLP document and sent for feedback and review
 - Neusearch technical discussion, meeting notes #2, GTM discussion notes in private repo. [private notes](https://github.com/KK92-ai/Neusearch/blob/main/meeting-notes-2.md)
 
 ## July 15, 2025 (Tuesday)
