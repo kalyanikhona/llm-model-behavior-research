@@ -11,7 +11,7 @@ Tracking daily experiments, observations, third party conversations and insights
 - (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
 ## July 21, 2025 (Monday)
-- Advanced GEO [research](https://github.com/KK92-ai/geo-advanced-research)
+- Gen AI - Multi Modal [Research Notes](https://github.com/KK92-ai/geo-advanced-research/blob/main/01-multimodal-search.md)
 
 ## July 16, 2025 (Wednesday)
 - Completed NLP document and sent for feedback and review
