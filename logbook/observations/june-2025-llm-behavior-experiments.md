@@ -5,11 +5,13 @@ Tracking daily experiments, observations, third party conversations and insights
 ---
 ## WIP
 
-- Multimodal LLMs research: Images, voice
 - Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
 - Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
 - Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 - (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
+
+## July 21, 2025 (Monday)
+- Advanced GEO [research](https://github.com/KK92-ai/geo-advanced-research)
 
 ## July 16, 2025 (Wednesday)
 - completed NLP document and sent for feedback and review
