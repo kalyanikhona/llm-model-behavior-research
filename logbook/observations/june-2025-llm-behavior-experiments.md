@@ -10,6 +10,13 @@ Tracking daily experiments, observations, third party conversations and insights
 - Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
 - (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
+## July 23, 2025 (Wednesday)
+- Query level research because multimodality or diverse content formats/types can be structured to trigger specific modality responses
+- GTM meeting with Neusearch team
+
+## July 22, 2025 (Tuesday)
+- Gen AI - Multi Modal Research [Continued]
+
 ## July 21, 2025 (Monday)
 - Gen AI - Multi Modal [Research Notes](https://github.com/KK92-ai/geo-advanced-research/blob/main/01-multimodal-search.md)
 
