@@ -5,8 +5,12 @@ Tracking daily experiments, observations, third party conversations and insights
 
 ## August 9, 2025 (Monday)
 
-- 
+- Research on user/human prompt behaviour, shift from keyword based to task resolving or decision making support, simple searches vs contextual searches
+- Review AI native ad network (chatgpt)
+- Review AI healthcare deal for investment
+- Hunnit tests on neusearch
 
+  
 ## August 8, 2025 (Friday)
 
 Back on research after 2 week break
