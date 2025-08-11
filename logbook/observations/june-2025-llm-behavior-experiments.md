@@ -1,14 +1,17 @@
 # 2025 LLM Behavior Research Logbook
 Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
 
-
 ---
-## WIP
 
-- Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
-- Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
-- Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
-- (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
+## August 9, 2025 (Monday)
+
+- 
+
+## August 8, 2025 (Friday)
+
+Back on research after 2 week break
+- Reviewing GEO case studies
+- Audit framework for D2C brands (Atheleisure)
 
 ## July 23, 2025 (Wednesday)
 - Query level research because multimodality or diverse content formats/types can be structured to trigger specific modality responses
@@ -70,6 +73,14 @@ Tracking daily experiments, observations, third party conversations and insights
 
 **Research Focus**: Understanding LLM response patterns, generative engine optimization, answer engine optimization, NLP deep dive on content density, citation behaviors and landscape, and platform-specific content type/format preferences
 
-**Last Updated**: July 9, 2025 | 5:20 PM IST
+## WIP
+
+- Write taxonomy document [LLM taxonomy document](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/llm-search-behavior-patterns-2025.md)
+- Claude citation agent review [citation agent](https://github.com/anthropics/anthropic-cookbook/blob/main/patterns/agents/prompts/citations_agent.md)
+- Work on anatomical framework of LLM responses (experimentation with content type, citation hypothesis and density). [How LLMs think](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/how-llms-process-simple-vs-complex-queries-2025.md)
+- (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
+
+
+**Last Updated**: August 8, 2025 | 10.10 AM IST
 
 **Contact**: [LinkedIn](https://linkedin.com/in/kalyanikhona) | [GitHub](https://github.com/KK92-ai)
