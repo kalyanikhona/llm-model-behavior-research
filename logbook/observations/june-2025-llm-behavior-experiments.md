@@ -2,6 +2,17 @@
 Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
 
 ---
+## August 15, 2025 (Friday)
+
+Pilot prep call, test run with Neusearch team
+
+Discussion pointers:
+1. ROI Tracking Dashboard
+2. Platform Enhancements
+3. Integration Roadmap
+4. Product Vision & Roadmap
+5. Core Platform Capabilities
+6. Competitive Differentiation
 
 ## August 9, 2025 (Monday)
 
