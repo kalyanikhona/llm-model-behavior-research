@@ -1,5 +1,5 @@
-# 2025 LLM Behavior Research Logbook
-Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
+# 2025 LLM Behavior Research and Daily Activity Logbook
+Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
 ## August 16, 2025 (Saturday)
@@ -7,6 +7,7 @@ Tracking daily experiments, observations, third party conversations and insights
 - GEO client onboarding checklist, pre-start procedure documented in [private](https://github.com/KK92-ai/Neusearch/blob/main/geo-client-onboarding.md) repo
 - Call to discuss SEO audits and website structure tomorrow
 - TTF memo on liquid neural networks completed
+- Meeting with VC to understand D2C co spends, customer acquisition and deal flow (D2C enabler pipeline)
 
 ## August 15, 2025 (Friday)
 
