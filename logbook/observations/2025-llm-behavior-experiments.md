@@ -4,7 +4,7 @@ Tracking daily experiments, observations, third party conversations and insights
 ---
 ## August 16, 2025 (Saturday)
 
-- GEO client onboarding checklist, pre-start procedure documented in private repo
+- GEO client onboarding checklist, pre-start procedure documented in [private](https://github.com/KK92-ai/Neusearch/blob/main/geo-client-onboarding.md) repo
 - Call to discuss SEO audits and website structure tomorrow
 - TTF memo on liquid neural networks completed
 
@@ -102,6 +102,6 @@ Back on research after 2 week break
 - (Bot info) ChatGPT shopping recommendation [Improved Shopping Results from ChatGPT Search](https://help.openai.com/en/articles/11128490-improved-shopping-results-from-chatgpt-search)
 
 
-**Last Updated**: August 8, 2025 | 10.10 AM IST
+**Last Updated**: August 16, 2025 | 1 PM IST
 
 **Contact**: [LinkedIn](https://linkedin.com/in/kalyanikhona) | [GitHub](https://github.com/KK92-ai)
