@@ -2,6 +2,12 @@
 Tracking daily experiments, observations, third party conversations and insights on how LLMs behave
 
 ---
+## August 16, 2025 (Saturday)
+
+- GEO client onboarding checklist, pre-start procedure documented in private repo
+- Call to discuss SEO audits and website structure tomorrow
+- TTF memo on liquid neural networks completed
+
 ## August 15, 2025 (Friday)
 
 Pilot prep call, test run with Neusearch team
