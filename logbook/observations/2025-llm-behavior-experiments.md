@@ -2,6 +2,14 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## August 19, 2025 (Tuesday)
+
+- Understanding internal routing, when schema gets triggered, when it relies on training data.
+- Tried to deep dive and make sense of this, got context on when it decides to do what but there are so many factors at play including its own judgement of how well it knows "answer to the query" and server load among other things.
+- Really cannot be controlled and hence can't be promised
+- Have recorded my notes on schema and router in a separate file for future reference.
+- Claude's web crawler and its decision to go web vs rely on training data
+
 ## August 18, 2025 (Monday)
 
 NS updates:
