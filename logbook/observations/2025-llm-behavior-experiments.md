@@ -2,6 +2,17 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## August 18, 2025 (Monday)
+
+NS updates:
+- D2C demo to founder, agency buy in and coordination (automate sign up, credits, GA integration as next steps)
+- Another reason to automation onboarding is to avoid agency bottleneck which wil lead to delay + lead leakage due to disengagement/lack of ownership.
+
+My research:
+- Query prompts, JSON file updates to my own experiments
+- Exploring multi-conversational prompts
+- Solving for content creation, restructuring existing resources (possibility of automating this to avoid hiring)
+
 ## August 16, 2025 (Saturday)
 
 - GEO client onboarding checklist, pre-start procedure documented in [private](https://github.com/KK92-ai/Neusearch/blob/main/geo-client-onboarding.md) repo
