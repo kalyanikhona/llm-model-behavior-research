@@ -8,7 +8,7 @@ NS updates:
 - D2C demo to founder, agency buy in and coordination (automate sign up, credits, GA integration as next steps)
 - Another reason to automation onboarding is to avoid agency bottleneck which wil lead to delay + lead leakage due to disengagement/lack of ownership.
 
-My research:
+My research: Query routing [optimization illusion of chatgpt](https://github.com/KK92-ai/llm-model-behavior-research/blob/main/research/optimization-illusion-ChatGPT.md)
 - Query prompts, JSON file updates to my own experiments
 - Exploring multi-conversational prompts
 - Solving for content creation, restructuring existing resources (possibility of automating this to avoid hiring)
