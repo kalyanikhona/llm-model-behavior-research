@@ -2,6 +2,12 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## August 20, 2025 (Wednesday)
+
+- Claude schema crawl, web search query processing notes
+- Llm.text file hypothesis
+- GitHub crawling analysis - pretraining, fine tuning, web search activation 
+
 ## August 19, 2025 (Tuesday)
 
 - Understanding internal routing, when schema gets triggered, when it relies on training data.
