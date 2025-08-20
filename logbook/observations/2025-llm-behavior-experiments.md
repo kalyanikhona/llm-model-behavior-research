@@ -6,7 +6,9 @@ Tracking daily experiments, observations, meetings, third party conversations an
 
 - Claude schema crawl, web search query processing notes
 - Llm.text file hypothesis
-- GitHub crawling analysis - pretraining, fine tuning, web search activation 
+- GitHub crawling analysis - pretraining, fine tuning, web search activation
+
+Key learning: We are not studying LLMs. We are actually trying to understand four different search engines that operating on completely different set of rules, fine tuning parameters and weights (base model).
 
 ## August 19, 2025 (Tuesday)
 
