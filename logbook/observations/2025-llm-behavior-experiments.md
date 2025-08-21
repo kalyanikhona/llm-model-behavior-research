@@ -4,8 +4,9 @@ Tracking daily experiments, observations, meetings, third party conversations an
 ---
 ## August 21, 2025 (Thursday)
 
-- LLM vector behavior research
+- LLM vector behavior search
 - How do different prompt styles affect clustering in the model's internal vector space?
+- Auction workflow for contextual real time ads in LLMs (3rd party or enterprise), real-time selection from pre-computed options model
 
 ## August 20, 2025 (Wednesday)
 
