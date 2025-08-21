@@ -2,6 +2,11 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## August 21, 2025 (Thursday)
+
+- LLM vector behavior research
+- How do different prompt styles affect clustering in the model's internal vector space?
+
 ## August 20, 2025 (Wednesday)
 
 - Claude schema crawl, web search query processing notes
