@@ -2,11 +2,18 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+
+## August 22, 2025 (Friday)
+
+- User behaviour analysis using wildchat data
+- Study user behaviour insights from other sources mapped in the worksheet
+- NS monetisation discussion
+
 ## August 21, 2025 (Thursday)
 
-- LLM vector behavior search
+- LLM vector behavior search **(WIP - will continue next week)**
 - How do different prompt styles affect clustering in the model's internal vector space?
-- Auction workflow for contextual real time ads in LLMs (3rd party or enterprise), real-time selection from pre-computed options model
+- Auction workflow for contextual real time ads in LLMs (3rd party or enterprise), real-time selection from pre-computed options model **(WIP - will continue next week)**
 
 ## August 20, 2025 (Wednesday)
 
