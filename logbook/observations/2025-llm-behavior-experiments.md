@@ -3,6 +3,14 @@ Tracking daily experiments, observations, meetings, third party conversations an
 
 ---
 
+## August 25, 2025 (Monday)
+
+User behaviour study:
+- Analyse and decoding the promptinguser data (Indian)
+- Comparasion to the prompting user data (non Indian)
+
+Agentic workflow on content creation - demo and document study
+
 ## August 22, 2025 (Friday)
 
 - User behaviour analysis using wildchat data
