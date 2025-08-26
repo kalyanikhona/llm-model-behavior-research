@@ -3,6 +3,12 @@ Tracking daily experiments, observations, meetings, third party conversations an
 
 ---
 
+## August 26, 2025 (Tuesday)
+
+- Agent workflow discussion with NS team
+- AI lab notes #1 insight release
+- Build the research repo on Chatgpt behaviour
+
 ## August 25, 2025 (Monday)
 
 User behaviour study:
