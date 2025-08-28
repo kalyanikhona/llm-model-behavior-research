@@ -3,6 +3,10 @@ Tracking daily experiments, observations, meetings, third party conversations an
 
 ---
 
+## August 28, 2025 (Thursday)
+
+- Build the research repo on Chatgpt behaviour
+
 ## August 26, 2025 (Tuesday)
 
 - Agent workflow discussion with NS team
