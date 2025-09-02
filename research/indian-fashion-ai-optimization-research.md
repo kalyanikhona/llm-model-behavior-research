@@ -3,7 +3,7 @@
 ![Research Status](https://img.shields.io/badge/Status-Ongoing%20Research-orange?style=flat-square)
 ![Start Date](https://img.shields.io/badge/Start%20Date-Sept%202,%202025-blue?style=flat-square)
 ![Document Type](https://img.shields.io/badge/Type-Living%20Document-green?style=flat-square)
-![Author](https://img.shields.io/badge/Author-[YOUR_NAME]-purple?style=flat-square)
+![Author](https://img.shields.io/badge/Author-[Kalyani Khona]-purple?style=flat-square)
 
 ## Project Overview
 **Objective**: Analyze how Indian users prompt fashion queries on ChatGPT and identify optimization opportunities for D2C fashion brands.
