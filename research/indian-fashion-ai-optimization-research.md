@@ -158,4 +158,6 @@ Provide specific improvement recommendations.
 | Content Analysis | Claude | ChatGPT | Scoring framework |
 
 ---
+Researcher Bio:
+
 Kalyani Khona is an Indian entrepreneur and AI behavior researcher. Co-founder of Inclov (world's first matchmaking app for people with disabilities), she now studies LLM decision-making patterns and publishes research on AI-human interaction at The Third Frontier.
