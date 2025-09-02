@@ -2,6 +2,10 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## September 2, 2025 (Tuesday)
+
+- Planning market research on fashion brands India - AI visibility and discovery
+
 
 ## August 28, 2025 (Thursday)
 
