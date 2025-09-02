@@ -16,6 +16,7 @@
 
 #### Step 1.1: Brand List Creation
 **Tool**: Claude/Perplexity
+
 **Prompt**: 
 
 1. Generate 20 top Indian D2C fashion brands with URLs, categorized as: 5 ethnic wear, 5 western wear, 5 accessories, 5 sustainable/indie brands.
