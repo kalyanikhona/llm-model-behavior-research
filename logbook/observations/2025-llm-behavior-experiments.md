@@ -5,6 +5,8 @@ Tracking daily experiments, observations, meetings, third party conversations an
 ## September 2, 2025 (Tuesday)
 
 - Planning market research on fashion brands India - AI visibility and discovery
+- Ran tests on the prompt response service
+- Planning the format, structure and next steps
 
 
 ## August 28, 2025 (Thursday)
