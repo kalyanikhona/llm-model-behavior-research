@@ -2,6 +2,10 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## September 3, 2025 (Wednesday)
+
+- Studying limitations of building a commerce model within LLM due to existing PCI compliance and missing context of shopping cart history
+
 ## September 2, 2025 (Tuesday)
 
 - Planning market research on fashion brands India - AI visibility and discovery
