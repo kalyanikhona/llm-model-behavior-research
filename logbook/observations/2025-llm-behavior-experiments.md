@@ -2,6 +2,14 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## September 5, 2025
+
+- ChatGPT study release package, 4-5-6-7th September.
+
+## September 4, 2025
+
+- Zenodo ChatGPT pre-release package, update all content today and tomorrow 
+
 ## September 3, 2025 (Wednesday)
 
 - Studying limitations of building a commerce model within LLM due to existing PCI compliance and missing context of shopping cart history
