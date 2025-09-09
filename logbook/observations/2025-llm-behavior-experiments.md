@@ -2,9 +2,15 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## September 6-9, 2025
+
+- Arxiv endorsement
+- Feedback on the research paper
+- ChatGPT perception in developing countries vs developed countries (Maybe fears of loosing existing status due to AI vs. gaining benefits through AI differs through countries demographics)
+
 ## September 5, 2025
 
-- ChatGPT study release package, 4-5-6-7th September.
+- ChatGPT study release package on Zendono
 
 ## September 4, 2025
 
