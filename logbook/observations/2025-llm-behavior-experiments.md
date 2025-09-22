@@ -7,6 +7,10 @@ Tracking daily experiments, observations, meetings, third party conversations an
 - Back to LLM behaviour research
 - GEO frameworks and prompts repo
 
+## September 15-20, 2025
+
+- Preprint submission, paper went live [link](https://arxiv.org/abs/2509.13337v1)
+
 ## September 6-9, 2025
 
 - Arxiv endorsement
