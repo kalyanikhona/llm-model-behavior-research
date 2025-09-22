@@ -2,6 +2,11 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## September 22, 2025
+
+- Back to LLM behaviour research
+- GEO frameworks and prompts repo
+
 ## September 6-9, 2025
 
 - Arxiv endorsement
