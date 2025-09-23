@@ -2,6 +2,11 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## September 23, 2025
+
+- Built prompt generator matrix which now includes cultural intellgience layer + Indian pricing queries
+- Category database to improve prompt repo
+
 ## September 22, 2025
 
 - Back to LLM behaviour research
