@@ -218,8 +218,7 @@ GitHub Repository: https://github.com/KK92-ai/llm-model-behavior-research
 
 **Kalyani Khona**
 - **Professional**: [LinkedIn](https://www.linkedin.com/in/kalyanikhona/)
-- **Research Updates**: [The Third Frontier](https://thirdfrontier.substack.com/)
-- **Technical Discussion**: [GitHub Issues](https://github.com/KK92-ai/llm-model-behavior-research/issues)
+- **AI-Human Interaction**: [The Third Frontier](https://thirdfrontier.substack.com/)
 - **Email**: [santimstudio@gmail.com](mailto:santimstudio@gmail.com)
 
 **Research Collaboration Opportunities**:
