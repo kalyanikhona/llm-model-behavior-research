@@ -7,7 +7,6 @@ Tracking daily experiments, observations, meetings, third party conversations an
 - Analysis of 100 prompts repo to fix aspects of AI visibility for different user behaviour (google search keyword based, complex queries, troubleshooting and task based prompts)
 - Brand mentions, pretraining data bias, semantic positioning notes
 
-
 ## September 24, 2025
 
 - Deep research agent tested
