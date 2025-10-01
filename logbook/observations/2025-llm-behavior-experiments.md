@@ -2,6 +2,10 @@
 Tracking daily experiments, observations, meetings, third party conversations and insights on how LLMs behave along with applied use cases and product development.
 
 ---
+## October 1, 2025
+
+- Deep dive: ACP
+
 ## September 25, 2025
 
 - Analysis of 100 prompts repo to fix aspects of AI visibility for different user behaviour (google search keyword based, complex queries, troubleshooting and task based prompts)
